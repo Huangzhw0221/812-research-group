@@ -55,4 +55,3 @@ user_groups:
 ---
 
 Jiahui Wu is a Master Student of artificial intelligence at the laboratory. His research interests include Artificial Intelligence, Deepfake and System Deployment. He is a great student with 3 SCI articles and 1 patent. In terms of projects, he contributed to a Multimodal retrieval system, Deepfake detection system and several other scientific research projects.
-
