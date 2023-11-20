@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: A_finalpic.jpg
+          filename: A_finalpic01.jpg
           filters:
             brightness: 1
           parallax: false
