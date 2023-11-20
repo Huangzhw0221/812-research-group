@@ -1,8 +1,8 @@
 ---
 title: "Pulmonary Nodule Risk Classification in Adenocarcinoma from CT Images Using Deep CNN with Scale Transfer Module"
 authors:
-- Yu Zhu
-- Bingbing Zhen
+- 朱煜
+- 郑兵兵
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
