@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master. The main contributor of this website.
+role: Master. The most handsome guy among the master's students.
 
 # Organizations/Affiliations
 organizations:
@@ -54,4 +54,5 @@ user_groups:
   - Master Students
 ---
 
-Jiahui Wu is a Master Student of artificial intelligence at the laboratory. His research interests include Artificial Intelligence, Deepfake and System Deployment. He is a great student with 3 Sci articles and 1 patent. In terms of projects, he contributed to a Multimodal retrieval system, Deepfake detection system and several other scientific research projects
+Jiahui Wu is a Master Student of artificial intelligence at the laboratory. His research interests include Artificial Intelligence, Deepfake and System Deployment. He is a great student with 3 SCI articles and 1 patent. In terms of projects, he contributed to a Multimodal retrieval system, Deepfake detection system and several other scientific research projects.
+
