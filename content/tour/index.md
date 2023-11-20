@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 欢迎到访812实验室！
+      - title: ' 👋 欢迎到访812实验室！'
         content: '与志同道合的朋友开启多彩研究生生活'
         align: center
         background:
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 享受生活
+      - title: '享受生活'
         content: '自由向上的实验室氛围'
         align: left
         background:
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: 致力科研
+      - title: '致力科研'
         content: '极其丰富的计算资源'
         align: right
         background:
@@ -38,7 +38,7 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: 欢迎到访812实验室
+      - title: '欢迎到访812实验室'
         content: '开明热情的导师'
         align: right
         background:
