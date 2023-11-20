@@ -24,7 +24,7 @@ publication_short: ""
 abstract: "Pulmonary nodules risk classification in adenocarcinoma is essential for early detection of lung cancer and clinicaltreatment decision. Improving the level of early diagnosis and the identification of small lung adenocarcinoma has been alwaysan important topic for imaging studies. In this study, the authors propose a deep convolutional neural network (CNN) with scale-transfer module (STM) and incorporate multi-feature fusion operation, named STM-Net. This network can amplify small targetsand adapt to different resolution images. The evaluation data were obtained from the computed tomography (CT) databaseprovided by Zhongshan Hospital Fudan University (ZSDB). All data have a pathological label and their lung adenocarcinomasrisk  are  classified  into  four  categories:  atypical  adenomatous  hyperplasia,  adenocarcinoma  in  situ,  minimally  invasiveadenocarcinoma, and invasive adenocarcinoma. The authors’ deep learning network STM-Net was trained and tested for therisk stage prediction. The accuracy and the average area under the receiver operating characteristic curve achieved by theirmethod are 95.455% and 0.987 for the ZSDB dataset. The experimental results show that STM-Net largely boosts classificationaccuracy on the pulmonary nodules classification compared with state-of-the-art approaches. The proposed method will be aneffective auxiliary to help physicians diagnosis pulmonary nodules risk classification in adenocarcinoma in early-stage."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -33,8 +33,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-ipr.2019.0248
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [Main-Structure](https://hzw-blogimage.oss-cn-shanghai.aliyuncs.com/812-lab/20231120205701.png)'
   focal_point: ""
   preview_only: false
 
@@ -63,13 +63,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
