@@ -1,21 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-11-20
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        ECUST 812
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Welcome to 812! This laboratory is a family full of joy!
+        The **812 Research Group**  is led by Professor **Zhu Yu**, the team is committed to the research of computer vision, including Medical Imaging, Autonomous Driving, Deepfake, Image Superresolution, NERF, Expression Recognition and etc.. 
   
   - block: collection
     content:
