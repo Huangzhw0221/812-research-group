@@ -43,7 +43,7 @@ sections:
         align: right
         background:
           image:
-            filename: A_finalpic04.jpg
+            filename: A_finalpic03.jpg
             filters:
               brightness: 0.5
           position: center

@@ -26,23 +26,23 @@ sections:
         - '周一至周五 10:00 to 18:00'
         - '周末 12:00 to 18:00'
       #appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+      contact_links:
+        - icon: comments
+          icon_pack: fas
+          name: Discuss on Forum
+          link: 'https://discourse.gohugo.io'
     
       # Automatically link email and phone or display as text?
       autolink: true
     
       # Email form provider
-      #form:
-      #  provider: netlify
-      #  formspree:
-      #    id:
-      #  netlify:
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
           # Enable CAPTCHA challenge to reduce spam?
-      #    captcha: false
+          captcha: false
     design:
       columns: '1'
 
