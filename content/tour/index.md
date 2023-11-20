@@ -8,32 +8,42 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 欢迎到访812实验室！
+        content: '与志同道合的朋友开启多彩研究生生活'
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: A_finalpic07.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 享受生活
+        content: '自由向上的实验室氛围'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: A_finalpic01.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: 致力科研
+        content: '极其丰富的计算资源'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: A_finalpic04.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+      - title: 欢迎到访812实验室
+        content: '开明热情的导师'
+        align: right
+        background:
+          image:
+            filename: A_finalpic04.jpg
             filters:
               brightness: 0.5
           position: center
@@ -41,7 +51,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: 联系我们
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')

@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Yu Zhu 朱煜
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yu
+last_name: Zhu
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Yu Zhu
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,16 +18,15 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Ecust
+    url: 'https://cise.ecust.edu.cn/7684/list.htm'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Leader of this laboratory, research interests include Artificial Intelligence,Computer Vision and Industrial controls.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Industrial controls
 
 education:
   courses:

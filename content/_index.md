@@ -14,8 +14,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        Welcome to 812! This laboratory is a family full of joy!
-        The **812 Research Group**  is led by Professor **Zhu Yu**, the team is committed to the research of computer vision, including Medical Imaging, Autonomous Driving, Deepfake, Image Superresolution, NERF, Expression Recognition and etc.. 
+        The 812 Research Group is led by Professor Yu Zhu. The team is committed to the research of computer vision, including Medical Imaging, Autonomous Driving, Deepfake, Image Superresolution, NERF, Expression Recognition and etc.. 
   
   - block: collection
     content:
@@ -45,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: A_finalpic.jpg
           filters:
             brightness: 1
           parallax: false

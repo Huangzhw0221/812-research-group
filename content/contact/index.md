@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        Welcome to visit! If you need to contact our laboratory, welcome to East China University of Science and Technology in Shanghai, we will sincerely accept you. You can also contact Prof. Yu Zhu or other members of the laboratory by email. Good Luck!
       email: zhuyu@ecust.edu.cn
       address:
         street: 梅陇路130号
@@ -36,33 +36,33 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #    captcha: false
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  #- block: markdown
+  # content:
+  #    title:
+  #    subtitle: ''
+  #    text:
+  #  design:
+  #    columns: '1'
+  #    background:
+  #      image: 
+  #       filename: contact.jpg
+  #        filters:
+  #          brightness: 1
+  #        parallax: false
+  #        position: center
+  #        size: cover
+  #        text_color_light: true
+  #    spacing:
+  #      padding: ['20px', '0', '20px', '0']
+  #    css_class: fullscreen
 ---
