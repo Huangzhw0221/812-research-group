@@ -22,12 +22,11 @@ organizations:
     url: 'https://cise.ecust.edu.cn/7684/list.htm'
 
 # Short bio (displayed in user profile at end of posts)
-bio: A doctoral student of this laboratory, research interests include Artificial Intelligence, Autonomous Driving Environment Perception, 3D Object Detection and Semantic Occupancy Prediction.
+bio: A doctoral student of this laboratory, research interests include Neural Radiance Fields, Medical Image Processing and Generative Model.
 interests:
-  - Artificial Intelligence
-  - Autonomous Driving Environment Perception
-  - 3D Object Detection
-  - Semantic Occupancy Prediction
+  - Neural Radiance Fields
+  - Generative Model
+  - Medical Image Processing
 
 education:
   courses:
@@ -35,11 +34,11 @@ education:
       institution: East China University of Science and Technology
       year: 2026
     - course: Master of Engineering
-      institution: Qingdao University of Science and Technology
+      institution: Beijing Union University
       year: 2022
     - course: Bachelor of Engineering
-      institution: Qingdao University of Science and Technology
-      year: 2019
+      institution: Beijing Union University
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -59,4 +58,4 @@ user_groups:
   - Doctor Students
 ---
 
-Ziming Zhu is a PhD candidate at the School of Information Science and Engineering, East China University of Science and Technology. His current research interests include artificial intelligence, digital image and point cloud data processing, deep learning algorithms and applications, and computer vision. Specific research contents include lane line detection in autonomous driving, camera-based, 4D imaging radar and lidar single-modal and multi-modal 3D object detection, segmentation, semantic occupancy prediction, etc. He has published several articles in journals in the field of artificial intelligence and computer vision, has been granted patents for inventions related to computer vision, has participated in several artificial intelligence and computer vision projects, and has won national awards in mathematical modeling and several artificial intelligence competitions.
+Hnagyu Li
