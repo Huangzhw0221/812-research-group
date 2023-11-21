@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD. The main contributor of this website.
+role: PhD.
 
 # Organizations/Affiliations
 organizations:

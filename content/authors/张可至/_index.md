@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master. The most handsome guy among the master's students.
+role: Master.
 
 # Organizations/Affiliations
 organizations:
