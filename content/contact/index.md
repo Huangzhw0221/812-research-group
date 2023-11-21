@@ -19,9 +19,9 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '31.143600'
+        latitude: '31.144600'
         longitude: '121.42300'
-      directions: 实验19楼 8层 812实验室
+      directions: 实验19楼(信息科学与工程学院楼) 8层 812实验室
       office_hours:
         - '周一至周五 10:00 to 18:00'
         - '周末 12:00 to 18:00'
