@@ -23,13 +23,14 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: A doctor student of this laboratory, research interests include Medical image processing, AIGC, and Image denoising.
-  - Medical image processing
+interests:
+  - Medical Image Processing
   - AIGC
-  - Image denoising
+  - Image Denoising
 
 education:
   courses:
-    - course: Doctor of Engineering
+    - course: PhD
       institution: East China University of Science and Technology
       year: 2024
     - course: Master of Engineering
