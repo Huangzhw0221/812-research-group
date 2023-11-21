@@ -1,16 +1,39 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: Introductions and Newly Arrived GPU devices!
 date: 2023-11-01
 image:
   focal_point: 'top'
 ---
 
-Newly Arrived GPU devices.
+Welcome to 812! This laboratory is a family full of joy!
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+The **812 Research Group**  is led by Professor Yu Zhu, the team is committed to the research of computer vision, including medical imaging, autonomous driving, deepfake, image superresolution, NERF, Expression Recognition and etc.. 
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+Here Leads to sub-pages and main links of our laboratory.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+- [Professor Yu Zhu](http://a.xueshu.baidu.com/scholarID/CN-BNHAMBBK)
+- [Recent news](https://ecust812.netlify.app/post/)
+- [Team members](https://ecust812.netlify.app/people/)
+- [Gallery](https://ecust812.netlify.app/tour/)
+- [Publications](https://ecust812.netlify.app/publication/)
+- Blog posts
+  - [Huang's Matrix](https://huangzhw0221.github.io/) Powered by Zhiwei Huang, containing Java, middleware and Leetcode records.
+  - [墨晓白_机器学习及图像处理-CSDN博客](https://blog.csdn.net/qq_24193303) Powered by Xiaoben Jiang, containing AI papers/coding and tricks in model training.
+  - [Yao's Blog ](https://zfyao666.github.io/) Powered by Fengyao Zhu, containing operating system, Linux and Java records.
+- Research Introduction
+  - Medical images : Two Phd students([Xiaoben Jiang](https://ecust812.netlify.app/author/xiaoben-jiang-%E8%92%8B%E6%99%93%E5%A5%94/) and [Yatong Liu](https://ecust812.netlify.app/author/yatong-liu-%E5%88%98%E9%9B%85%E7%AB%A5/)) and several master students are researching in this area. This is 
+  - Autonomous driving: One Phd student([Ziming Zhu](https://ecust812.netlify.app/author/ziming-zhu-%E6%9C%B1%E6%A2%93%E9%93%AD/)) and one master student are researching in this area.
+  - Nerf: One Phd student([Hangyu Li](https://ecust812.netlify.app/author/hnagyu-li-%E6%9D%8E%E8%88%AA%E5%AE%87/)) and one master are researching in this area.
+  - Deepfake, Image Super-resolution, Facial Expression Recognition and etc..
+
+In early Nov, 6 new 3090 GPUs has been arrived, till now, our laboratory has extremely abundant computing resources. Wish the students in the lab publish more papers!
+
+- Resources
+  - A6000 GPU devices * 4.
+  - A40 GPU devices *4.
+  - RTX3090 GPU devices *8.
+  - Titan GPU devices *2.
+  - RTX2080ti GPU devices *2.
+  - RTX1080ti GPU devices *4.
