@@ -25,7 +25,7 @@ organizations:
 bio: A master student of this laboratory, research interests include Artificial Intelligence, Facial Expression recognition and System Design.
 interests:
   - Artificial Intelligence
-  - Computer Vision
+  - Facial Expression recognition
   - System Design
 
 education:
@@ -70,4 +70,4 @@ user_groups:
 enrollment_year: 2021
 ---
 
-Zhiwei Huang is a Master Student of artificial intelligence at the laboratory. His research interests include Artificial Intelligence, Facial Expression recognition and System Design. He is a main contributor to this website and good at Leetcode coding. In terms of projects, he has 2 patents and contributed to a Danger Detection System and a Multimodal retrieval system.
+Zhiwei Huang is a Master Student of artificial intelligence at the laboratory. His research interests include Artificial Intelligence, Facial Expression recognition and System Design. He is a main contributor to this website and good at Leetcode coding. In terms of projects, he has 2 patents and contributed to a Danger Detection System and a Multimodal retrieval system. 
