@@ -19,8 +19,8 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '31.143400'
-        longitude: '121.42318'
+        latitude: '31.143600'
+        longitude: '121.42300'
       directions: 实验19楼 8层 812实验室
       office_hours:
         - '周一至周五 10:00 to 18:00'
