@@ -32,13 +32,13 @@ education:
   courses:
     - course: Prof. in Department of Electronic Information
       institution: East China University of Science and Technology
-      year: 2012
+      year: 2008
     - course: Visiting Scholar
       institution: University of Illinois Urbana-Champaign
-      year: 2009
+      year: 2004
     - course: PhD in Engineering, School of Electronic Engineering and Optoelectronic Technology
       institution: Nanjing University of Science and Technology
-      year: 2008
+      year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -57,6 +57,4 @@ user_groups:
   - Principal Investigators
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yu Zhu received the PhD degree in optical engineering from Nanjing University of Science and Technology, China, in 1999. She is currently a professor in the Department of Electronics and Communication Engineering of East China University of Science and Technology. Her research interests include image processing, computer vision, multimedia communication and deep learning. She has published more than 100 papers in journals and conferences.
