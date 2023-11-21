@@ -1,6 +1,6 @@
 ---
-title: Images denoising for COVID-19 chest X-ray based on multi-scale parallel convolutional
-  neural network
+title: "Images denoising for COVID-19 chest X-ray based on multi-scale parallel convolutional
+  neural network"
 authors:
 - 蒋晓奔
 - 朱煜
@@ -41,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure]()'
+  caption: 'Image credit: [Main-Structure](https://hzw-blogimage.oss-cn-shanghai.aliyuncs.com/812-lab/featured.jpg)'
   focal_point: ""
   preview_only: false
 

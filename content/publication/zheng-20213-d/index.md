@@ -1,6 +1,6 @@
 ---
-title: 3D gray density coding feature for benign-malignant pulmonary nodule classification
-  on chest CT
+title: "3D gray density coding feature for benign-malignant pulmonary nodule classification
+  on chest CT"
 authors:
 - 郑兵兵
 - 杨达伟
@@ -12,8 +12,7 @@ doi: "https://doi.org/10.1002/mp.15298"
  
 publishDate: '2021-9-30'
 
-publication_types:
-- article-journal
+publication_types: ["article-journal"]
 
 publication: "Medical Physics"
 publication_short: ""
@@ -40,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: https://hzw-blogimage.oss-cn-shanghai.aliyuncs.com/812-lab/Zheng%20%E7%AD%89%20-%202021%20-%203D%20gray%20density%20coding%20feature%20for%20benign-malignan.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -52,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure]()'
+  caption: 'Image credit: [Main-Structure](https://hzw-blogimage.oss-cn-shanghai.aliyuncs.com/812-lab/featured.jpg)'
   focal_point: ""
   preview_only: false
 

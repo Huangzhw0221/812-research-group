@@ -1,6 +1,6 @@
 ---
-title: A multi-class COVID-19 segmentation network with pyramid attention and edge
-  loss in CT images
+title: "A multi-class COVID-19 segmentation network with pyramid attention and edge
+  loss in CT images"
 authors:
 - 余芙丽
 - 朱煜
@@ -12,8 +12,7 @@ doi: "https://doi.org/10.1049/ipr2.12249"
  
 publishDate: '2023-11-21T04:32:36.485684Z'
 
-publication_types:
-- article-journal
+publication_types: ["article-journal"]
 
 publication: "IET Image Processing"
 publication_short: ""
@@ -42,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure]()'
+  caption: 'Image credit: [Main-Structure](https://hzw-blogimage.oss-cn-shanghai.aliyuncs.com/812-lab/featured.jpg)'
   focal_point: ""
   preview_only: false
 
