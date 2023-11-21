@@ -21,7 +21,7 @@ sections:
       coordinates:
         latitude: '31.14322'
         longitude: '121.42418'
-      directions: 实验19楼 8楼 812实验室
+      directions: 实验19楼 8层 812实验室
       office_hours:
         - '周一至周五 10:00 to 18:00'
         - '周末 12:00 to 18:00'
