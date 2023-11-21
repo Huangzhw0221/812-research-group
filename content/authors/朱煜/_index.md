@@ -61,7 +61,7 @@ social:
 email: 'zhuyu@ecust.edu.cn'
 
 user_groups:
-  - Principal Investigators
+  - Academic Leaders
 
 enrollment_year: 2008
 ---

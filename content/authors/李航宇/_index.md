@@ -59,7 +59,7 @@ social:
 email: '15008338806@163.com'
 
 user_groups:
-  - Doctor Students
+  - Doctoral Students
 
 enrollment_year: 2022
 ---
