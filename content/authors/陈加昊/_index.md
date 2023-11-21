@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Hnagyu Li 李航宇
+title: Jiahao Chen 陈加昊
 
 # Full name (for SEO)
-first_name: Hnagyu
-last_name: Li
+first_name: Jiahao
+last_name: Chen
 
 # Username (this should match the folder name)
 authors:
-  - 李航宇
+  - 陈加昊
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD.
+role: Master.
 
 # Organizations/Affiliations
 organizations:
@@ -22,23 +22,20 @@ organizations:
     url: 'https://cise.ecust.edu.cn/7684/list.htm'
 
 # Short bio (displayed in user profile at end of posts)
-bio: A doctoral student of this laboratory, research interests include Neural Radiance Fields, Medical Image Processing and Generative Model.
+bio: A master student of this laboratory, research interests include 3D Object Detection, Point Cloud Processing and 4D Millimeter Wave Radar.
 interests:
-  - Neural Radiance Fields
-  - Generative Model
-  - Medical Image Processing
+  - 3D Object Detection
+  - Point Cloud Processing
+  - 4D Millimeter Wave Radar
 
 education:
   courses:
-    - course: PhD
+    - course: Master of Engineering
       institution: East China University of Science and Technology
       year: 2026
-    - course: Master of Engineering
-      institution: Beijing Union University
-      year: 2022
     - course: Bachelor of Engineering
-      institution: Beijing Union University
-      year: 2017
+      institution: East China University of Science and Technology
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:15008338806@163.com'
+    link: 'mailto:chen20103509@163.com'
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -56,12 +53,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '15008338806@163.com'
+email: 'chen20103509@163.com'
 
 user_groups:
-  - Doctor Students
+  - Master Students
 
-enrollment_year: 2022
+enrollment_year: 2023
 ---
 
-Hnagyu Li
+Jiahao Chen graduated from East China University of Science and Technology with a bachelor's degree. His research direction is point cloud 3D object detection. He participated in the SAIC 4D millimeter Wave radar project. Proficient in 3D printing, through machine, static model production, photography, video editing. He has dabdled in ROS, mechanical drawing, poster design and other fields. He founded the East China of Science and Technology RoboMaster University series competition team and served as the first captain.

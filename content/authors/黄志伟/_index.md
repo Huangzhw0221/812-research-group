@@ -50,10 +50,11 @@ social:
     link: https://huangzhw0221.github.io/
   - icon: envelope
     icon_pack: fas
-    link: 'huangzhiwei0221@163.com'
+    link: 'mailto:huangzhiwei0221@163.com'
   - icon: discord
     icon_pack: fab
     link: https://discord.com/invite/62R5Ucx23v
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,6 +66,8 @@ email: 'huangzhiwei0221@163.com'
 
 user_groups:
   - Master Students
+
+enrollment_year: 2021
 ---
 
 Zhiwei Huang is a Master Student of artificial intelligence at the laboratory. His research interests include Artificial Intelligence, Facial Expression recognition and System Design. He is a main contributor to this website and good at Leetcode coding. In terms of projects, he has 2 patents and contributed to a Danger Detection System and a Multimodal retrieval system.

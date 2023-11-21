@@ -42,6 +42,11 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # Link to a PDF of your resume/CV from the About widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:691053438@qq.com'
+    
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -52,6 +57,8 @@ email: '691053438@qq.com'
 
 user_groups:
   - Master Students
+
+enrollment_year: 2021
 ---
 
 Jiahui Wu is a Master Student of artificial intelligence at the laboratory. His research interests include Artificial Intelligence, Deepfake and System Deployment. He is a great student with 3 SCI articles and 1 patent. In terms of projects, he contributed to a Multimodal retrieval system, Deepfake detection system and several other scientific research projects.

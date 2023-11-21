@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD. The main contributor of this website.
+role: PhD.
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,11 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:zimingzhu@mail.ecust.edu.cn'
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,6 +61,8 @@ email: 'zimingzhu@mail.ecust.edu.cn'
 
 user_groups:
   - Doctor Students
+
+enrollment_year: 2022
 ---
 
 Ziming Zhu is a PhD candidate at the School of Information Science and Engineering, East China University of Science and Technology. His current research interests include artificial intelligence, digital image and point cloud data processing, deep learning algorithms and applications, and computer vision. Specific research contents include lane line detection in autonomous driving, camera-based, 4D imaging radar and lidar single-modal and multi-modal 3D object detection, segmentation, semantic occupancy prediction, etc. He has published several articles in journals in the field of artificial intelligence and computer vision, has been granted patents for inventions related to computer vision, has participated in several artificial intelligence and computer vision projects, and has won national awards in mathematical modeling and several artificial intelligence competitions.

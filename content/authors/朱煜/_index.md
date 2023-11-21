@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Prof. The leader of laboratory
+role: Professor of Artificial Intelligence. The leader of laboratory.
 
 # Organizations/Affiliations
 organizations:
@@ -22,11 +22,13 @@ organizations:
     url: 'https://cise.ecust.edu.cn/7684/list.htm'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Leader of this laboratory, research interests include Artificial Intelligence,Computer Vision and Industrial controls.
+bio: Leader of this laboratory, research interests include Artificial Intelligence, Computer Vision, Industrial controls, Digital Image and Video Processing, Machine learning, Deep Learning and Applications.
 interests:
   - Artificial Intelligence
   - Computer Vision
   - Industrial controls
+  - Digital Image and Video Processing
+  - Machine learning, Deep Learning and Applications
 
 education:
   courses:
@@ -44,6 +46,11 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:zhuyu@ecust.edu.cn'
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,6 +62,8 @@ email: 'zhuyu@ecust.edu.cn'
 
 user_groups:
   - Principal Investigators
+
+enrollment_year: 2008
 ---
 
-Yu Zhu received the PhD degree in optical engineering from Nanjing University of Science and Technology, China, in 1999. She is currently a professor in the Department of Electronics and Communication Engineering of East China University of Science and Technology. Her research interests include image processing, computer vision, multimedia communication and deep learning. She has published more than 100 papers in journals and conferences.
+Yu Zhu received the PhD degree in optical engineering from Nanjing University of Science and Technology, China, in 1999. She is currently a professor in the Department of Electronics and Communication Engineering of East China University of Science and Technology. Her research interests include image processing, computer vision, multimedia communication and deep learning. She has published more than 100 papers in journals and conferences.
