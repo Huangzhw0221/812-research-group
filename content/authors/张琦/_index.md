@@ -61,4 +61,4 @@ user_groups:
 enrollment_year: 2021
 ---
 
-Qi Zhang is a Master Student of artificial intelligence at the laboratory. His research interests include Artificial Intelligence, Action Recognization and Computer Vision. He has published two SCI papers. He received the national scholarship and the first class scholarships, and won awards in electronic design competitions. He enjoys traveling and photography.
+Qi Zhang is a Master Student of artificial intelligence at the laboratory. His research interests include Artificial Intelligence, Action Recognization and Computer Vision. He has published 2 SCI papers. He received the national scholarship and the first class scholarships, and won awards in electronic design competitions. He enjoys traveling and photography.
