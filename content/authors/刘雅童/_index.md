@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctor.
+role: PhD.
 
 # Organizations/Affiliations
 organizations:

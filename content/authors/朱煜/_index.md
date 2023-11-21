@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Prof. The leader of laboratory
+role: Professor of Artificial Intelligence. The leader of laboratory.
 
 # Organizations/Affiliations
 organizations:
