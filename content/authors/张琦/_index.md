@@ -22,11 +22,11 @@ organizations:
     url: 'https://cise.ecust.edu.cn/7684/list.htm'
 
 # Short bio (displayed in user profile at end of posts)
-#bio: A master student of this laboratory, research interests include Artificial Intelligence, Deepfake and System Deployment.
-#interests:
-#  - Artificial Intelligence
-#  - Deepfake
-#  - System Deployment
+bio: A master student of this laboratory, research interests include Artificial Intelligence, Action Recognization and Computer Vision.
+interests:
+  - Artificial Intelligence
+  - Action Recognization
+  - Computer Vision
 
 education:
   courses:
@@ -42,10 +42,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # Link to a PDF of your resume/CV from the About widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:691053438@qq.com'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:zhangqioct@163.com'
     
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,7 +53,7 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: '691053438@qq.com'
+email: 'zhangqioct@163.com'
 
 user_groups:
   - Master Students
@@ -61,4 +61,4 @@ user_groups:
 enrollment_year: 2021
 ---
 
-Qi Zhang
+Qi Zhang is a Master Student of artificial intelligence at the laboratory. His research interests include Artificial Intelligence, Action Recognization and Computer Vision. He has published two SCI papers. He received the national scholarship and the first class scholarships, and won awards in electronic design competitions. He enjoys traveling and photography.
