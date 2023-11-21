@@ -56,6 +56,8 @@ organizations:
 
 user_groups:
   - Master Students
+
+enrollment_year: 2022
 ---
 
 Yanbin Liu

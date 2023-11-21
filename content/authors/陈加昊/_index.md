@@ -56,6 +56,8 @@ organizations:
 
 user_groups:
   - Master Students
+
+enrollment_year: 2023
 ---
 
 Jiahao Chen

@@ -60,6 +60,8 @@ email: '15008338806@163.com'
 
 user_groups:
   - Doctor Students
+
+enrollment_year: 2022
 ---
 
 Hnagyu Li

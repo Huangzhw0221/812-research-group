@@ -62,6 +62,8 @@ email: 'zhuyu@ecust.edu.cn'
 
 user_groups:
   - Principal Investigators
+
+enrollment_year: 2008
 ---
 
 Yu Zhu received the PhD degree in optical engineering from Nanjing University of Science and Technology, China, in 1999. She is currently a professor in the Department of Electronics and Communication Engineering of East China University of Science and Technology. Her research interests include image processing, computer vision, multimedia communication and deep learning. She has published more than 100 papers in journals and conferences.

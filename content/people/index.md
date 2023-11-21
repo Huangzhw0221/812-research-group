@@ -17,7 +17,7 @@ sections:
           - Grad Students
           - Administration
           - Linked Researcher
-      sort_by: Params.last_name
+      sort_by: Params.enrollment_year
       sort_ascending: true
     design:
       show_interests: false

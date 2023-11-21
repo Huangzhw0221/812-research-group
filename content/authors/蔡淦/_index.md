@@ -56,6 +56,8 @@ organizations:
 
 user_groups:
   - Grad Students
+
+enrollment_year: 2020
 ---
 
 Gan Cai

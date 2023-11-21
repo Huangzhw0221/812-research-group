@@ -57,6 +57,8 @@ email: 'y30220946@mail.ecust.edu.cn'
 
 user_groups:
   - Master Students
+
+enrollment_year: 2022
 ---
 
 Kezhi Zhang was born in Ningbo, Zhejiang Province, China in 2000. He received a B.S. degree in information engineering from East China University of Science and Technology in 2022. He is currently pursuing an M.S. degree at East China University of Science and Technology. His research interests include computer vision based on deep learning.

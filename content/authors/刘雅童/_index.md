@@ -72,6 +72,8 @@ organizations:
 
 user_groups:
   - Doctor Students
+
+enrollment_year: 2021
 ---
 
 Yatong Liu

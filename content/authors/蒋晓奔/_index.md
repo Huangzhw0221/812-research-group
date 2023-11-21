@@ -71,6 +71,8 @@ email: 'jerry_jiang@mail.ecust.edu.cn'
 
 user_groups:
   - Doctor Students
+
+enrollment_year: 2020
 ---
 
 Xiaoben Jiang is a Doctor Student of artificial intelligence at the laboratory. His research interests include Medical image processing, AIGC, and Image denoising. He is a great student with 8 SCI articles and 1 patent. He likes playing basketball, and his dream is to open a milk tea shop.

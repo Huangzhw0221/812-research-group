@@ -57,6 +57,8 @@ education:
 
 user_groups:
   - Master Students
+
+enrollment_year: 2021
 ---
 
 Qi Zhang
