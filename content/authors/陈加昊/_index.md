@@ -22,28 +22,29 @@ organizations:
     url: 'https://cise.ecust.edu.cn/7684/list.htm'
 
 # Short bio (displayed in user profile at end of posts)
-#bio: A doctoral student of this laboratory, research interests include Neural Radiance Fields and Medical Image Processing.
-#interests:
-#  - Neural Radiance Fields
-#  - Medical Image Processing
+bio: A master student of this laboratory, research interests include 3D Object Detection, Point Cloud Processing and 4D Millimeter Wave Radar.
+interests:
+  - 3D Object Detection
+  - Point Cloud Processing
+  - 4D Millimeter Wave Radar
 
-#education:
-#  courses:
-#    - course: Master of Engineering
-#      institution: East China University of Science and Technology
-#      year: 2026
-#    - course: Bachelor of Engineering
-#      institution: East China University of Science and Technology
-#      year: 2023
+education:
+  courses:
+    - course: Master of Engineering
+      institution: East China University of Science and Technology
+      year: 2026
+    - course: Bachelor of Engineering
+      institution: East China University of Science and Technology
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:15008338806@163.com'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:chen20103509@163.com'
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -52,7 +53,7 @@ organizations:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: '15008338806@163.com'
+email: 'chen20103509@163.com'
 
 user_groups:
   - Master Students
@@ -60,4 +61,4 @@ user_groups:
 enrollment_year: 2023
 ---
 
-Jiahao Chen
+Jiahao Chen graduated from East China University of Science and Technology with a bachelor's degree. His research direction is point cloud 3D object detection. He participated in the SAIC 4D millimeter Wave radar project. Proficient in 3D printing, through machine, static model production, photography, video editing. He has dabdled in ros, mechanical drawing, poster design and other fields. He founded the East China Science and Technology Mecha Master University series competition team and served as the first captain.

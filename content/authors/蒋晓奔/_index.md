@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctor. One apple a day keep the doctor away.
+role: PhD. One apple a day keep the doctor away.
 
 # Organizations/Affiliations
 organizations:
@@ -36,6 +36,7 @@ education:
     - course: Master of Engineering
       institution: Zhejiang University of Technology
       year: 2020
+      
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
