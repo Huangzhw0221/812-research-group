@@ -3,8 +3,8 @@
 title: Xiaoben Jiang 蒋晓奔
 
 # Full name (for SEO)
-first_name: Xiaoben
-last_name: Jiang
+first_name: Xiaoben 
+last_name: Jiang 
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD. The main contributor of this website.
+role: Doctor. One apple a day keep the doctor away.
 
 # Organizations/Affiliations
 organizations:
@@ -22,30 +22,43 @@ organizations:
     url: 'https://cise.ecust.edu.cn/7684/list.htm'
 
 # Short bio (displayed in user profile at end of posts)
-bio: A doctoral student of this laboratory, research interests include Artificial Intelligence, Autonomous Driving Environment Perception, 3D Object Detection and Semantic Occupancy Prediction.
-interests:
-  - Artificial Intelligence
-  - Autonomous Driving Environment Perception
-  - 3D Object Detection
-  - Semantic Occupancy Prediction
+bio: A doctor student of this laboratory, research interests include Medical image processing, AIGC, and Image denoising.
+  - Medical image processing
+  - AIGC
+  - Image denoising
 
 education:
   courses:
-    - course: PhD
+    - course: Doctor of Engineering
       institution: East China University of Science and Technology
-      year: 2026
+      year: 2024
     - course: Master of Engineering
-      institution: Qingdao University of Science and Technology
-      year: 2022
-    - course: Bachelor of Engineering
-      institution: Qingdao University of Science and Technology
-      year: 2019
-
+      institution: Zhejiang University of Technology
+      year: 2020
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
+social:
+  - icon: blog
+    icon_pack: fas
+    link: https://blog.csdn.net/qq_24193303
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-9454-0037
+  - icon: envelope
+    icon_pack: fas
+    link: 'jerry_jiang@mail.ecust.edu.cn'
+  
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,10 +66,10 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'zimingzhu@mail.ecust.edu.cn'
+email: 'jerry_jiang@mail.ecust.edu.cn'
 
 user_groups:
-  - PhD Students
+  - Doctor Students
 ---
 
-Ziming Zhu is a PhD candidate at the School of Information Science and Engineering, East China University of Science and Technology. His current research interests include artificial intelligence, digital image and point cloud data processing, deep learning algorithms and applications, and computer vision. Specific research contents include lane line detection in autonomous driving, camera-based, 4D imaging radar and lidar single-modal and multi-modal 3D object detection, segmentation, semantic occupancy prediction, etc. He has published several articles in journals in the field of artificial intelligence and computer vision, has been granted patents for inventions related to computer vision, has participated in several artificial intelligence and computer vision projects, and has won national awards in mathematical modeling and several artificial intelligence competitions.
+Xiaoben Jiang is a Doctor Student of artificial intelligence at the laboratory. His research interests include Medical image processing, AIGC, and Image denoising. He is a great student with 8 SCI articles and 1 patent. He likes playing basketball, and his dream is to open a milk tea shop.
