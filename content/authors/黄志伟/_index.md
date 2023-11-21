@@ -50,7 +50,7 @@ social:
     link: https://huangzhw0221.github.io/
   - icon: envelope
     icon_pack: fas
-    link: 'huangzhiwei0221@163.com'
+    link: 'mailto:huangzhiwei0221@163.com'
   - icon: discord
     icon_pack: fab
     link: https://discord.com/invite/62R5Ucx23v

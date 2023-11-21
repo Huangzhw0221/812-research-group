@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'y30220946@mail.ecust.edu.cn'
+    link: 'mailto:y30220946@mail.ecust.edu.cn'
     
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

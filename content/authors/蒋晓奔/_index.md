@@ -49,7 +49,7 @@ social:
     link: https://orcid.org/0000-0002-9454-0037
   - icon: envelope
     icon_pack: fas
-    link: 'jerry_jiang@mail.ecust.edu.cn'
+    link: 'mailto:jerry_jiang@mail.ecust.edu.cn'
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
