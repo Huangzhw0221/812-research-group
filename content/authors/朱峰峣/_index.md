@@ -41,10 +41,10 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:15008338806@163.com'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:zfyao529@163.com'
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -53,7 +53,7 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: '15008338806@163.com'
+email: 'zfyao529@163.com'
 
 user_groups:
   - Grad Students
