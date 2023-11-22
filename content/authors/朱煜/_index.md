@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence. The leader of laboratory.
+role: Professor. Experts in artificial intelligence and computer vision. Lab leader.
 
 # Organizations/Affiliations
 organizations:
@@ -27,8 +27,10 @@ interests:
   - Artificial Intelligence
   - Computer Vision
   - Industrial controls
-  - Digital Image and Video Processing
+  - Digital Image and Video Information Processing
   - Machine learning, Deep Learning and Applications
+  - Medical Image Processing and Intelligent Analysis
+  - Application of Image Intelligent Analysis Technology in Cross-field Research
 
 education:
   courses:
@@ -66,4 +68,6 @@ user_groups:
 enrollment_year: 2008
 ---
 
-Yu Zhu received the PhD degree in optical engineering from Nanjing University of Science and Technology, China, in 1999. She is currently a professor in the Department of Electronics and Communication Engineering of East China University of Science and Technology. Her research interests include image processing, computer vision, multimedia communication and deep learning. She has published more than 100 papers in journals and conferences.
+Yu Zhu, Professor, doctoral supervisor, and head of the Department of Electronic and Communication Engineering, School of Information Science and Engineering, East China University of Science and Technology. She has long been committed to artificial intelligence, image and video information processing, deep learning algorithms and applications, medical image processing and intelligent analysis, machine vision and other research directions, as well as the application of image intelligent analysis technology in cross-field research. 
+
+She serves as the executive director of Shanghai Image and Graphics Society, the Executive director of the Circuit and Signal System Teaching and teaching Materials Research Association of universities, the standing committee of the iot Medical Branch of China Association of Non-Public Medical Institutions, and the Technical Committee of the Shanghai iot Medical Engineering Technology Center for Respiratory Diseases. She has undertaken a number of scientific research projects such as National Natural Science Foundation, Shanghai Scientific Research Fund, and commissioned research and development by enterprises, and has published more than 100 academic papers, 10 invention patents, and 8 software Copyrights.

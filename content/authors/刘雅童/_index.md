@@ -70,4 +70,6 @@ user_groups:
 enrollment_year: 2021
 ---
 
-Yatong Liu is a PhD candidate of artificial intelligence at the laboratory. Her research interests include medical image processing and deep learning algorithm, among others. She has published several high-level academic papers and actively contributed to various projects involving intelligent algorithms.
+Yatong Liu is a PhD candidate in the School of Information Science and Engineering, East China University of Science and Technology, and an AI algorithm engineer. Her main research interests include medical image processing, deep learning algorithms, intelligent analysis of multi-source medical images, lesion segmentation and detection, and pattern recognition. 
+
+She has published a number of high-level academic papers in journals such as Computer Methods and Programs in Biomedicine, participated in the research and development of several intelligent algorithm projects, and made active contributions to various projects involving intelligent algorithms.
