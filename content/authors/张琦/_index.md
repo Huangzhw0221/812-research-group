@@ -66,4 +66,6 @@ enrollment_year: 2021
 
 Qi Zhang is a postgraduate student at the School of Information Science and Engineering, East China University of Science and Technology. He is also an AI algorithm engineer, and his main research directions are artificial intelligence, computer vision and video processing, video action recognition, deep learning algorithms, pattern recognition, etc. 
 
-He has rich academic background and practical experience. He has published two high-level SCI academic papers in journals such as BMC Medical Imaging. He won the National Scholarship and first-class scholarship, and won the Shanghai Municipal Award in the graduate Electronic Design competition. Participated in the research and development of several intelligent algorithm projects, promoted the progress of the projects, and improved the performance and robustness of the algorithms. In his spare time, he enjoys traveling and photography.
+He has rich academic background and practical experience. He has published two high-level SCI academic papers in journals such as BMC Medical Imaging. He won the National Scholarship and first-class scholarship, and won the Shanghai Municipal Award in the graduate Electronic Design competition. Participated in the research and development of several intelligent algorithm projects, promoted the progress of the projects, and improved the performance and robustness of the algorithms. 
+
+In his spare time, he enjoys traveling and photography.

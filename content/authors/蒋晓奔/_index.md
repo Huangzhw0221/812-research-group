@@ -78,4 +78,6 @@ enrollment_year: 2020
 
 Xiaoben Jiang is a PhD student of Laboratory Artificial Intelligence and a PhD candidate of School of Information Science and Engineering, East China University of Science and Technology, majoring in Control Science and Engineering. His current research interests include digital image processing, computer vision, medical image processing, AIGC, and image denoising.
 
-His research experience includes denoising methods for chest X-ray images and CT images, and detecting COVID-19 cases from denoised CXR images. He is a great student, he has published 8 SCI high-level academic papers in journals at the intersection of medicine and computer vision, has 1 invention patent, and participated in a number of public and privately funded AI-related research and development projects. In his spare time, he likes playing basketball and his dream is to open a milk tea shop.
+His research experience includes denoising methods for chest X-ray images and CT images, and detecting COVID-19 cases from denoised CXR images. He is a great student, he has published 8 SCI high-level academic papers in journals at the intersection of medicine and computer vision, has 1 invention patent, and participated in a number of public and privately funded AI-related research and development projects. 
+
+In his spare time, he likes playing basketball and his dream is to open a milk tea shop.
