@@ -61,4 +61,6 @@ user_groups:
 enrollment_year: 2023
 ---
 
-Jiahao Chen graduated from East China University of Science and Technology with a bachelor's degree. His research direction is point cloud 3D object detection. He participated in the SAIC 4D millimeter Wave radar project. Proficient in 3D printing, through machine, static model production, photography, video editing. He has dabdled in ROS, mechanical drawing, poster design and other fields. He founded the East China of Science and Technology RoboMaster University series competition team and served as the first captain.
+Jiahao Chen graduated from East China University of Science and Technology with a bachelor's degree. His research direction is point cloud 3D object detection. He participated in the SAIC 4D millimeter Wave radar project. 
+
+Proficient in 3D printing, through machine, static model production, photography, video editing. He has dabdled in ROS, mechanical drawing, poster design and other fields. He founded the East China of Science and Technology RoboMaster University series competition team and served as the first captain.

@@ -64,4 +64,4 @@ user_groups:
 enrollment_year: 2022
 ---
 
-Hnagyu Li
+Hangyu Li
