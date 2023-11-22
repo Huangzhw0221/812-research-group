@@ -32,7 +32,7 @@ interests:
   - Medical Image Processing and Intelligent Analysis
   - Application of Image Intelligent Analysis Technology in Cross-field Research
 
-education:
+Work Experience:
   courses:
     - course: Prof. in Department of Electronic Information
       institution: East China University of Science and Technology
