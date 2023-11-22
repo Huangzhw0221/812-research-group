@@ -22,19 +22,20 @@ organizations:
     url: 'https://www.huawei.com/cn/corporate-information'
 
 # Short bio (displayed in user profile at end of posts)
-#bio: A doctoral student of this laboratory, research interests include Neural Radiance Fields and Medical Image Processing.
-#interests:
-#  - Neural Radiance Fields
-#  - Medical Image Processing
+bio: A Master student of this laboratory, research interests include Computer Vision and Person Re-identification (ReID).
+interests:
+  - Computer Vision
+  - Deep Learning
+  - Person Re-identification (ReID)
 
-#education:
-#  courses:
-#    - course: Master of Engineering
-#      institution: East China University of Science and Technology
-#      year: 2023
-#    - course: Bachelor of Engineering
-#      institution: East China University of Science and Technology
-#      year: 2020
+education:
+  courses:
+    - course: Master of Engineering
+      institution: East China University of Science and Technology
+      year: 2023
+    - course: Bachelor of Engineering
+      institution: Nanjing Agricultural University
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -60,4 +61,10 @@ user_groups:
 enrollment_year: 2020
 ---
 
-Fengyao Zhu
+Fengyao Zhu, graduated from East China University of Science and Technology with a master's degree, with a research direction in ReID. He published one SCI article during his master's degree. According to the junior students, it was his hateful suggestions that caused everyone in this laboratory to write weekly reports, but he never admitted it.
+
+Currently working in Huawei (Don’t ask, he can’t buy Huawei phones either!!!). According to him, he is just a humble wage earner.
+
+Hobbies: football, photography and music (every day is Mayday🔵🔵🔵). 
+
+keep Chill, Stay Real, and “興趣使然”.
