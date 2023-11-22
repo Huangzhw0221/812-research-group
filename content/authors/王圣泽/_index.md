@@ -63,4 +63,6 @@ enrollment_year: 2023
 
 Shengze Wang, a member of the Communist Party of China, was born in June 2001. He graduated from Shanghai Ocean University, majoring in Computer Science and Technology, and is currently studying in East China University of Science and Technology, majoring in Information and Communication Engineering. His research interests include Computer Vision, Deep Learning, and Person Re-identification (ReID) related technologies. 
 
-In terms of professional learning, he has experience in developing projects related to mobile clients and web pages, and his projects have won awards in national and municipal competitions. He has participated in mathematical modeling competitions for many times and won national awards. His hobbies are squatting at home and accompanying his girlfriend. If you have academic exchange needs or business cooperation needs (urgent, online waiting), please contact him.
+In terms of professional learning, he has experience in developing projects related to mobile clients and web pages, and his projects have won awards in national and municipal competitions. He has participated in mathematical modeling competitions for many times and won national awards. 
+
+His hobbies are squatting at home and accompanying his girlfriend. If you have academic exchange needs or business cooperation needs (urgent, online waiting), please contact him.
