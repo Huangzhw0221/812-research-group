@@ -18,8 +18,8 @@ role: Master.
 
 # Organizations/Affiliations
 organizations:
-  - name: East China University of Science and Technology
-    url: 'https://cise.ecust.edu.cn/7684/list.htm'
+  - name: Huawei Technologies Co., Ltd
+    url: 'https://www.huawei.com/cn/corporate-information'
 
 # Short bio (displayed in user profile at end of posts)
 #bio: A doctoral student of this laboratory, research interests include Neural Radiance Fields and Medical Image Processing.

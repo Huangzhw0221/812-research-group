@@ -22,11 +22,11 @@ organizations:
     url: 'https://cise.ecust.edu.cn/7684/list.htm'
 
 # Short bio (displayed in user profile at end of posts)
-#bio: A master student of this laboratory, research interests include Artificial Intelligence, Deepfake and System Deployment.
-#interests:
-#  - Artificial Intelligence
-#  - Deepfake
-#  - System Deployment
+bio: A master student of this laboratory, research interests include Artificial Intelligence, Text Image Processing and Image Super-resolution.
+interests:
+  - Artificial Intelligence
+  - Text Image Processing
+  - Image Super-resolution
 
 education:
   courses:
@@ -42,10 +42,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # Link to a PDF of your resume/CV from the About widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:691053438@qq.com'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:sq15052502008@126.com'
     
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,7 +53,7 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: '691053438@qq.com'
+email: 'sq15052502008@126.com'
 
 user_groups:
   - Master Students
@@ -61,4 +61,6 @@ user_groups:
 enrollment_year: 2021
 ---
 
-Qin Shi
+Qin Shi is a Master Student of artificial intelligence at the laboratory. Her research interests include Artificial Intelligence, Text Image Processing and Image Super-resolution. 
+
+She is a great student with 3 SCI articles and 1 patent. She has a good few hobbies including reading and listening to music.
