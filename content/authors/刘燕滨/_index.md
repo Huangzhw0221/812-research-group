@@ -61,4 +61,6 @@ user_groups:
 enrollment_year: 2023
 ---
 
-Yanbin Liu, female, born in Quanzhou, Fujian province in August 2001. His research interests include Computer Vision, Text Image Analysis, and Super-resolution Reconstruction. He graduated from East China University of Science and Technology with a bachelor's degree. He once participated in the research of Big Innovation project "MOOC-based automatic Question Answering System" and Shanghai Computer Application Ability Competition. He was awarded the excellent graduation project of East China University of Science and Technology and the honorary title of Outstanding graduate.
+Yanbin Liu, female, born in Quanzhou, Fujian province in August 2001. Her research interests include Computer Vision, Text Image Analysis, and Super-resolution Reconstruction. She graduated from East China University of Science and Technology with a bachelor's degree. 
+
+She once participated in the research of Big Innovation project "MOOC-based automatic Question Answering System" and Shanghai Computer Application Ability Competition. She was awarded the excellent graduation project of East China University of Science and Technology and the honorary title of Outstanding graduate.
