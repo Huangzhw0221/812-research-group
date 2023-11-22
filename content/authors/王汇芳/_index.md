@@ -22,10 +22,11 @@ organizations:
     url: 'https://cise.ecust.edu.cn/7684/list.htm'
 
 # Short bio (displayed in user profile at end of posts)
-#bio: A doctoral student of this laboratory, research interests include Neural Radiance Fields and Medical Image Processing.
-#interests:
-#  - Neural Radiance Fields
-#  - Medical Image Processing
+bio: A Master student of this laboratory, research interests include Artificial Intelligence, Medical Lesion Recognition and Medical Image Segmentation.
+interests:
+  - Artificial Intelligence
+  - Medical Lesion Recognition
+  - Medical Image Segmentation
 
 education:
   courses:
@@ -40,10 +41,10 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:15008338806@163.com'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:2256175795@qq.com'
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -52,7 +53,7 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: '15008338806@163.com'
+email: '2256175795@qq.com'
 
 user_groups:
   - Master Students
@@ -60,4 +61,4 @@ user_groups:
 enrollment_year: 2022
 ---
 
-Huifang Wang
+Huifang Wang is a postgraduate student majoring in Communication and Information Engineering at East China University of Science and Technology. Her research interests include Artificial Intelligence, Medical Lesion Recognition and Medical Image Segmentation. She loves reading and calligraphy.
