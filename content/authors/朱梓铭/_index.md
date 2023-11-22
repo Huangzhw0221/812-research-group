@@ -46,6 +46,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: bilibili
+    icon_pack: fab
+    link: 'https://space.bilibili.com/15355336?spm_id_from=333.1007.0.0'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zimingzhu@mail.ecust.edu.cn'
