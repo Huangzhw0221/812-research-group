@@ -4,6 +4,7 @@ title: "Images denoising for COVID-19 chest X-ray based on multi-scale parallel 
 authors:
 - 蒋晓奔
 - 朱煜
+- 郑兵兵
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
