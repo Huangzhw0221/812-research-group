@@ -43,6 +43,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # Link to a PDF of your resume/CV from the About widget.
 social:
+  - icon: bilibili
+    icon_pack: fab
+    link: 'https://space.bilibili.com/279339251'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zhangqioct@163.com'
