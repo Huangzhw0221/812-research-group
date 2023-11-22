@@ -43,6 +43,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # Link to a PDF of your resume/CV from the About widget.
 social:
+  - icon: podcast
+    icon_pack: fas
+    link: 'https://www.xiaoyuzhoufm.com/episode/64a0df88ec448b75fd8e7e31'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:691053438@qq.com'
@@ -61,4 +64,6 @@ user_groups:
 enrollment_year: 2021
 ---
 
-Jiahui Wu is a Master Student of artificial intelligence at the laboratory. His research interests include Artificial Intelligence, Deepfake and System Deployment. He is a great student with 3 SCI articles and 1 patent. In terms of projects, he contributed to a Multimodal retrieval system, Deepfake detection system and several other scientific research projects.
+Jiahui Wu is a Master Student of artificial intelligence at the laboratory. His research interests include Artificial Intelligence, Deepfake and System Deployment. 
+
+He is a great student with 3 SCI articles and 1 patent. In terms of projects, he contributed to a Multimodal retrieval system, Deepfake detection system and several other scientific research projects.
