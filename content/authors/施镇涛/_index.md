@@ -18,20 +18,20 @@ role: Master.
 
 # Organizations/Affiliations
 organizations:
-  - name: East China University of Science and Technology
-    url: 'https://cise.ecust.edu.cn/7684/list.htm'
+  - name: China Avionics Research Institute
+    url: 'https://www.cae.ac.cn'
 
 # Short bio (displayed in user profile at end of posts)
-#bio: A doctoral student of this laboratory, research interests include Neural Radiance Fields and Medical Image Processing.
-#interests:
-#  - Neural Radiance Fields
-#  - Medical Image Processing
+bio: A Master student of this laboratory, research interests include Model Compression and Embedded Systems.
+interests:
+  - Model Compression
+  - Embedded Systems
 
-#education:
-#  courses:
-#    - course: Master of Engineering
-#      institution: East China University of Science and Technology
-#      year: 2023
+education:
+  courses:
+    - course: Master of Engineering
+      institution: East China University of Science and Technology
+      year: 2023
 #    - course: Bachelor of Engineering
 #      institution: East China University of Science and Technology
 #      year: 2020
@@ -40,10 +40,10 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:15008338806@163.com'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'bonelessash@163.com'
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -52,7 +52,7 @@ organizations:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: '15008338806@163.com'
+email: 'bonelessash@163.com'
 
 user_groups:
   - Grad Students
@@ -60,4 +60,6 @@ user_groups:
 enrollment_year: 2020
 ---
 
-Zhentao Shi
+Zhentao Shi is from Qingdao, Shandong, born on January 23, 1998. During his graduate studies, his research interests were model compression and embedded systems. 
+
+He loves aircraft, travel and video games. He has a great confidence in life, and hope to settle down in Shanghai in the future.
