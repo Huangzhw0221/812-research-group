@@ -31,7 +31,7 @@ interests:
 education:
   courses:
     - course: Master of Engineering
-      institution: Zhejiang University of Technology
+      institution: East China University of Science and Technology
       year: 2022
       
 # Social/Academic Networking
