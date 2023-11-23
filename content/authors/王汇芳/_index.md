@@ -61,4 +61,6 @@ user_groups:
 enrollment_year: 2022
 ---
 
-Huifang Wang is a postgraduate student majoring in Communication and Information Engineering at East China University of Science and Technology. Her research interests include Artificial Intelligence, Medical Lesion Recognition and Medical Image Segmentation. She loves reading and calligraphy.
+Huifang Wang is a postgraduate student majoring in Communication and Information Engineering at East China University of Science and Technology. Her research interests include Artificial Intelligence, Medical Lesion Recognition and Medical Image Segmentation. 
+
+She loves reading and calligraphy.

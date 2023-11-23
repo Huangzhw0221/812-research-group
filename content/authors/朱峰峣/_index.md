@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master.
+role: Master. Big Mayday fan.
 
 # Organizations/Affiliations
 organizations:
