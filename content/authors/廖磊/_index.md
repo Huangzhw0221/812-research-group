@@ -18,8 +18,8 @@ role: Master.
 
 # Organizations/Affiliations
 organizations:
-  - name: East China University of Science and Technology
-    url: 'https://cise.ecust.edu.cn/7684/list.htm'
+  - name: UNITED IMAGING
+    url: 'https://www.united-imaging.com'
 
 # Short bio (displayed in user profile at end of posts)
 bio: A Master student of this laboratory, research interests include Deep Learning, Facial Expression Recognition, and Computer Vision.
