@@ -64,4 +64,8 @@ user_groups:
 enrollment_year: 2022
 ---
 
-Hangyu Li
+Hangyu Li is a PhD Candidate at the School of Information Science and Engineering, East China University of Science and Technology. His research interests primarily revolve around generative models, neural radiation fields, deep learning algorithms and applications, and computer vision. Within these areas, he focuses on topics such as AIGC, medical image reconstruction using generative models, and novel perspective synthesis of medical images based on neural radiation fields. 
+
+Hangyu Li has a commendable publication record, with several articles published in reputable journals that specialize in artificial intelligence and computer vision. He has also obtained patents for inventions related to computer vision and actively participated in various artificial intelligence and computer vision projects. Currently, Hangyu Li is a member of the Beijing Society of Cross Sciences.
+
+Hobbies: Fitness, self-discipline and early rising (Questionable)
