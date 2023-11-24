@@ -14,7 +14,7 @@ main:
     url: people
     weight: 30
   - name: Publications
-    url: publication
+    url: publications
     weight: 50
   - name: Contact
     url: contact
