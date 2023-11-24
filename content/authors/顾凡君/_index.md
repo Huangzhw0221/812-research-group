@@ -66,7 +66,7 @@ organizations:
 user_groups:
   - Grad Students
 
-enrollment_year: 2019
+enrollment_year: 2020
 ---
 
 Fanjun Gu
