@@ -60,4 +60,4 @@ user_groups:
 enrollment_year: 2020
 ---
 
-Gan Cai was born in Hubei Province, China, and obtained the B.S. degree in School of Information Science and Engineering from East China University of Science and Technology in 2020. He is currently pursuing the M.S. degree in East China University of Science and Technology. His main research interests include deep learning for medical image processing and computer vision.
+Gan Cai was born in Hubei Province, China. He received his bachelor's degree from the School of Information Science and Engineering of East China University of Science and Technology in 2020. He received his master's degree from School of Information Science and Engineering of East China University of Science and Technology in 2023. His main research interests include medical image processing and deep learning for computer vision.
