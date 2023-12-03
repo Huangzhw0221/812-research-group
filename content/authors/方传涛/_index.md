@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master.
+role: Master. Huge fan of Arsenal ⚽️ team.
 
 # Organizations/Affiliations
 organizations:

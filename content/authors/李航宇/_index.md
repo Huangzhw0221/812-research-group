@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD. A super listener of 《三国恋》🎵
+role: PhD. A super listener of 《三国恋》🎵.
 
 # Organizations/Affiliations
 organizations:
