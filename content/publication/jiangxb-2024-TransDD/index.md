@@ -1,5 +1,5 @@
 ---
-title: "FDTNet: Enhancing frequency-aware representation for prohibited object detection from X-ray images via dual-stream transformers"
+title: "TransDD: A transformer-based dual-path decoder for improving the performance of thoracic diseases classification using chest X-ray"
 authors:
 - 蒋晓奔
 - 朱煜
