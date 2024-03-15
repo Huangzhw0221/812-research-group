@@ -1,0 +1,13 @@
+@article{JIANG2024105937,
+title = {TransDD: A transformer-based dual-path decoder for improving the performance of thoracic diseases classification using chest X-ray},
+journal = {Biomedical Signal Processing and Control},
+volume = {91},
+pages = {105937},
+year = {2024},
+issn = {1746-8094},
+doi = {https://doi.org/10.1016/j.bspc.2023.105937},
+url = {https://www.sciencedirect.com/science/article/pii/S1746809423013708},
+author = {Xiaoben Jiang and Yu Zhu and Yatong Liu and Gan Cai and Hao Fang},
+keywords = {Chest X-ray image, Dual-path decoder, Thoracic diseases classification, Classification attention block},
+abstract = {Manually and accurately detecting thoracic diseases from CXR images is a time-consuming task that requires experienced radiologists. Therefore, automated thoracic diseases classification has great significance. However, most existing methods solely leverage the feature maps extracted from CXR images to classify thoracic diseases, without effectively connecting the correlation between the local discriminative lesion features and their corresponding labels. To address this issue, we innovatively introduce a learnable label embedding as queries to detect and match class-related features from the feature maps, and then processed by a novel Transformer-based dual-path decoder (TransDD) to facilitate interaction. The proposed TransDD is comprised of three key components: spatial reduction attention (SRA), dual-path attention (DPA), and feature enhancement module (FEM). SRA is employed in simplifying the complexity of self-attention, while DPA is specifically designed to connect the explicit correlation between the features and labels. Moreover, FEM is used to boost the expressiveness of local features. Subsequently, the classification attention block is utilized to balance two classification scores based on the feature output and label output, respectively. The proposed TransDD-PVT attained SOTA performance on the ChestX-ray14 dataset, achieving a mean area under the receiver operating characteristic (AUC) of 83.1% across all 14 classes. Also, our method achieves 94.31% accuracy and 93.31% sensitivity on three-class classifications. Extensive experiments conducted on several datasets demonstrate the powerful ability of our TransDD to improve the performance of thoracic diseases classification. It can serve as a plug-and-play structure to improve the classification performance of both CNNs and recent Transformer-based backbones.}
+}
