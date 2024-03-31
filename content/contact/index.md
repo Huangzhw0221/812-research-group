@@ -21,10 +21,10 @@ sections:
       coordinates:
         latitude: '31.144600'
         longitude: '121.42300'
-      directions: 实验19楼(信息科学与工程学院楼) 8层 812实验室
+      directions: 实验19楼(信息科学与工程学院楼) 8层 809 教授办公室
       office_hours:
         - '周一至周五 10:00 to 18:00'
-        - '周末 12:00 to 18:00'
+      #  - '周末 12:00 to 18:00'
       #appointment_url: 'https://calendly.com'
       #contact_links:
         #- icon: comments

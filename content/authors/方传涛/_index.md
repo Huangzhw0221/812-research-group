@@ -70,7 +70,7 @@ user_groups:
 enrollment_year: 2019
 ---
 
-Chuantao Fang, graduated from East China University of Science and Technology with a master’s degree. In Lab-812, his work is mainly about deep learning and image super-resolution. 
+Chuantao Fang, graduated from East China University of Science and Technology with a master’s degree. In MMAI laboratory, his work is mainly about deep learning and image super-resolution. 
 
 He is a normal student with only one SCI article and nothing (the others are so excellent). So he is now working in a normal company named Trip.com.
 
