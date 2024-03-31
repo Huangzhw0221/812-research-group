@@ -1,39 +1,21 @@
 ---
-title: Introductions and Newly Arrived GPU devices!
-date: 2023-11-01
+title: 2023-2024 Half Year Summary
+date: 2024-03-31
 image:
   focal_point: 'top'
 ---
 
-Welcome to Ecust-MMAI! This laboratory is a family full of joy!
+A work summary for the first semester of the 2023-2024 academic year.
 
 <!--more-->
 
-The **Ecust-MMAI Research Group**  is led by Professor Yu Zhu. The team is committed to the research of artificial intellegence, advanced deep learning algorithms, computer vision, and multimedia applications. Including Medical Imaging, Autonomous Driving, Deepfake, Image Superresolution, NERF, Expression Recognition and etc..
+In the past half year, **Ecust-MMAI**  laboratory has closely focused on the research and application of Multimodal AI technology, and has made significant progress and achievements. The team members worked together, not only publishing multiple high-quality academic papers and patents, but also successfully collaborating on projects with multiple industries, further promoting the implementation and application of MMAI technology.
 
-Here Leads to sub-pages and main links of our laboratory.
+Here lists some papers produced by the laboratory. Click on the link to view a detailed introduction and feel free to give feedback or guidance.
 
-- [Professor Yu Zhu](http://a.xueshu.baidu.com/scholarID/CN-BNHAMBBK)
-- [Recent news](https://ecust-mmai.netlify.app/post/)
-- [Team members](https://ecust-mmai.netlify.app/people/)
-- [Gallery](https://ecust-mmai.netlify.app/tour/)
-- [Publications](https://ecust-mmai.netlify.app/publication/)
-- Blog posts
-  - [Huang's Matrix](https://huangzhw0221.github.io/) Powered by Zhiwei Huang, containing Java, middleware and Leetcode records.
-  - [墨晓白_机器学习及图像处理-CSDN博客](https://blog.csdn.net/qq_24193303) Powered by Xiaoben Jiang, containing AI papers/coding and tricks in model training.
-  - [Yao's Blog ](https://zfyao666.github.io/) Powered by Fengyao Zhu, containing operating system, Linux and Java records.
-- Research Introduction
-  - Medical images : Two PhD students([Xiaoben Jiang](https://ecust-mmai.netlify.app/author/xiaoben-jiang-%E8%92%8B%E6%99%93%E5%A5%94/) and [Yatong Liu](https://ecust-mmai.netlify.app/author/yatong-liu-%E5%88%98%E9%9B%85%E7%AB%A5/)) and several master students are researching in this area.
-  - Autonomous driving: One PhD student([Ziming Zhu](https://ecust-mmai.netlify.app/author/ziming-zhu-%E6%9C%B1%E6%A2%93%E9%93%AD/)) and one master student are researching in this area.
-  - Nerf: One PhD student([Hangyu Li](https://ecust-mmai.netlify.app/author/hnagyu-li-%E6%9D%8E%E8%88%AA%E5%AE%87/)) and one master are researching in this area.
-  - Deepfake, Image Super-resolution, Facial Expression Recognition etc.
-
-In early Nov, 6 new 3090 GPUs has been arrived, till now, our laboratory has extremely abundant computing resources. Wish the students in the lab publish more papers!
-
-- Computing Resources
-  - NVIDIA RTX A6000 GPU 48G × 4.
-  - NVIDIA A40 GPU 48G × 4.
-  - NVIDIA RTX 3090 GPU 24G × 8.
-  - NVIDIA TITAN RTX GPU 24G × 2.
-  - NVIDIA RTX 2080ti GPU 11G × 2.
-  - NVIDIA RTX 1080ti GPU 11G × 4.
+- [FDTNet: Enhancing frequency-aware representation for prohibited object detection from X-ray images via dual-stream transformers](https://ecust-mmai.netlify.app/publication/zhuzm-2024-fdtnet/)
+- [ACnerf: enhancement of neural radiance field by alignment and correction of pose to reconstruct new views from a single x-ray](https://ecust-mmai.netlify.app/publication/sunmc-2024-acnerf/)
+- [Local attention and long-distance interaction of rPPG for deepfake detection](https://ecust-mmai.netlify.app/publication/wujh-2024-local/)
+- [TransDD: A transformer-based dual-path decoder for improving the performance of thoracic diseases classification using chest X-ray](https://ecust-mmai.netlify.app/publication/jiangxb-2024-transdd/)
+- [SMIFormer: Learning Spatial Feature Representation for 3D Object Detection from 4D Imaging Radar via Multi-View Interactive Transformers](https://ecust-mmai.netlify.app/publication/zhuzm-2023-smiformer/)
+- [MC-DC: An MLP-CNN Based Dual-path Complementary Network for Medical Image Segmentation](https://ecust-mmai.netlify.app/publication/jiangxb-2023-mc/)
