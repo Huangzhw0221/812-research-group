@@ -1,6 +1,5 @@
 ---
-title: "Pulmonary nodule risk classification in adenocarcinoma from CT images using
-  deep CNN with scale transfer module"
+title: "Pulmonary nodule risk classification in adenocarcinoma from CT images using deep CNN with scale transfer module"
 authors:
 - 郑婕
 - 杨达伟
@@ -12,7 +11,8 @@ doi: "https://doi.org/10.1049/iet-ipr.2019.0248"
 
 publishDate: "2023-11-21T04:32:36.466979Z"
 
-publication_types: ["article-journal"]
+publication_types:
+- article-journal
 
 publication: "IET Image Processing"
 publication_short: ""

@@ -11,7 +11,8 @@ doi: "https://doi.org/10.1007/s10489-022-03431-5"
 
 publishDate: '2023-11-21T04:32:36.498467Z'
 
-publication_types: ["article-journal"]
+publication_types:
+- article-journal
 
 publication: "Applied Intelligence"
 publication_short: ""
