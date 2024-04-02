@@ -41,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure]()'
+  caption: 'Image credit: [MDPI](https://doi.org/10.3390/s23239429)'
   focal_point: ""
   preview_only: false
 
