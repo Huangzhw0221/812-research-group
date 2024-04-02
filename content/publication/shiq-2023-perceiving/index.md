@@ -9,7 +9,7 @@ author_notes:
 date: '2023'
 doi: "https://doi.org/10.1016/j.engappai.2023.106551"
 
-publishDate: '2023'
+publishDate: '2023-09-01'
 
 publication_types:
 - article-journal

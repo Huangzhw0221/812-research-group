@@ -6,16 +6,17 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2020-05-14T00:00:00Z"
+date: "2020"
 doi: "https://doi.org/10.1049/iet-ipr.2019.0248"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-14T00:00:00Z"
+publishDate: "2020-05-14"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
 publication: "IET Image Processing"
