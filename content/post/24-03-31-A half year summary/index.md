@@ -19,3 +19,5 @@ Here lists some papers produced by the laboratory. Click on the link to view a d
 - [TransDD: A transformer-based dual-path decoder for improving the performance of thoracic diseases classification using chest X-ray](https://ecust-mmai.netlify.app/publication/jiangxb-2024-transdd/)
 - [SMIFormer: Learning Spatial Feature Representation for 3D Object Detection from 4D Imaging Radar via Multi-View Interactive Transformers](https://ecust-mmai.netlify.app/publication/zhuzm-2023-smiformer/)
 - [MC-DC: An MLP-CNN Based Dual-path Complementary Network for Medical Image Segmentation](https://ecust-mmai.netlify.app/publication/jiangxb-2023-mc/)
+- [Dynamic facial expression recognition based on spatial key-points optimized
+region feature fusion and temporal self-attention](https://ecust-mmai.netlify.app/publication/huangzw-2024-SFT-DFER/)
