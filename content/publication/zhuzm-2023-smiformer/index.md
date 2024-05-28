@@ -15,7 +15,7 @@ publishDate: '2023-11-27'
 publication_types:
 - article-journal
 
-publication: "sensors"
+publication: "Sensors"
 publication_short: ""
 
 abstract: "4D millimeter wave (mmWave) imaging radar is a new type of vehicle sensor technology that is critical to autonomous driving systems due to its lower cost and robustness in complex weather. However, the sparseness and noise of point clouds are still the main problems restricting the practical application of 4D imaging radar. In this paper, we introduce SMIFormer, a multi-view feature fusion network framework based on 4D radar single-modal input. SMIFormer decouples the 3D point cloud scene into 3 independent but interrelated perspectives, including bird’s-eye view (BEV), front view (FV), and side view (SV), thereby better modeling the entire 3D scene and overcoming the shortcomings of insufficient feature representation capabilities under single-view built from extremely sparse point clouds. For multi-view features, we proposed multi-view feature interaction (MVI) to exploit the inner relationship between different views by integrating features from intra-view interaction and cross-view interaction. We evaluated the proposed SMIFormer on the View-of-Delft (VoD) dataset. The mAP of our method reached 48.77 and 71.13 in the fully annotated area and the driving corridor area, respectively. This shows that 4D radar has great development potential in the field of 3D object detection."
