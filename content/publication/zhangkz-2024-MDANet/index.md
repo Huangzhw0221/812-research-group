@@ -4,14 +4,14 @@ authors:
 - 张可至
 - 朱煜
 - 李航宇
-#- 刘雅童
+- 刘雅童
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: '2024'
 doi: "https://doi.org/10.1016/j.bspc.2024.106383"
 
-publishDate: '2024-09-01'
+publishDate: '2024-09-10'
 
 publication_types:
 - article-journal
