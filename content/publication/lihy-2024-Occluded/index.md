@@ -3,6 +3,8 @@ title: "Occluded person re-identification based on parallel triplet augmentation
 authors:
 - 李航宇
 - 朱煜
+- 王圣泽
+- 朱梓铭
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
