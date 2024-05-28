@@ -4,7 +4,6 @@ authors:
 - 黄志伟
 - 朱煜
 - 李航宇
-- 刘雅童
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
