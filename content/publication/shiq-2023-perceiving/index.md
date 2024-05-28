@@ -3,6 +3,7 @@ title: "Perceiving Multiple Representations for scene text image super-resolutio
 authors:
 - 施秦
 - 朱煜
+- 刘雅童
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

@@ -4,7 +4,6 @@ authors:
 - 朱梓铭
 - 朱煜
 - 王浩然
-- 
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

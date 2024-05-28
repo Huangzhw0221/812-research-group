@@ -3,6 +3,7 @@ title: "SMIFormer: Learning Spatial Feature Representation for 3D Object Detecti
 authors:
 - 朱梓铭
 - 朱煜
+- 张可至
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

@@ -3,6 +3,7 @@ title: "ACnerf: enhancement of neural radiance field by alignment and correction
 authors:
 - 孙梦成
 - 朱煜
+- 李航宇
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

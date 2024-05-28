@@ -4,6 +4,7 @@ title: "MC-DC: An MLP-CNN Based Dual-path Complementary Network for Medical Imag
 authors:
 - 蒋晓奔
 - 朱煜
+- 刘雅童
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
