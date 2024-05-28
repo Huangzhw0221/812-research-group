@@ -3,6 +3,8 @@ title: "TransDD: A transformer-based dual-path decoder for improving the perform
 authors:
 - 蒋晓奔
 - 朱煜
+- 刘雅童
+- 蔡淦
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
