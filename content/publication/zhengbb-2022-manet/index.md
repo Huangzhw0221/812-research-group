@@ -3,6 +3,7 @@ title: "MA-Net: Mutex attention network for COVID-19 diagnosis on CT images"
 authors:
 - 郑兵兵
 - 朱煜
+- 施秦
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
