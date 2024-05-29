@@ -11,7 +11,7 @@ author_notes:
 date: '2024'
 doi: "https://doi.org/10.1016/j.bspc.2024.106383"
 
-publishDate: '2024-09-10'
+publishDate: '2024-06-10'
 
 publication_types:
 - article-journal
@@ -25,7 +25,10 @@ abstract: "Stroke segmentation has great significance for clinical diagnosis and
 summary: 
 
 tags:
-- Brain stroke segmentation
+- Computer-aided diagnosis
+- Brain stroke
+- Medical image segmentation
+- Deep learning
 featured: false
 
 # links:
@@ -43,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure]()'
+  caption: 'Image credit: [Elsevier](https://doi.org/10.1016/j.bspc.2024.106383)'
   focal_point: ""
   preview_only: false
 
