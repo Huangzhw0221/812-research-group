@@ -24,7 +24,7 @@ abstract: "Single image super-resolution (SISR) aims to recover clear high-resol
 summary: 
 
 tags:
-- Super-Resolution
+- Text image super-resolution
 featured: false
 
 # links:

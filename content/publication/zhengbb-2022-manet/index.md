@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure](https://hzw-blogimage.oss-cn-shanghai.aliyuncs.com/812-lab/featured.jpg)'
+  caption: 'Image credit: [Springer](https://hzw-blogimage.oss-cn-shanghai.aliyuncs.com/812-lab/featured.jpg)'
   focal_point: ""
   preview_only: false
 

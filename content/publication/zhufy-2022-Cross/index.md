@@ -24,7 +24,7 @@ abstract: "Matching all RGB photos of the target person in the gallery database 
 summary: 
 
 tags:
-- Remote sensing images object detection
+- Sketch re-identification
 featured: false
 
 # links:
