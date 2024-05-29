@@ -1,31 +1,34 @@
 ---
-title: "FDTNect detection from X-rormers"
+title: "MDANet: Multimodal difference aware network for brain stroke segmentation"
 authors:
-- 刘雅童
+- 张可至
 - 朱煜
-- 王圣泽
-- 朱梓铭
+- 李航宇
+- 刘雅童
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: '2024'
-doi: "https://doi.org/10.1016/j.engappai.2024.108076"
+doi: "https://doi.org/10.1016/j.bspc.2024.106383"
 
-publishDate: '2024-02-16'
+publishDate: '2024-06-16'
 
 publication_types:
 - article-journal
 
-publication: "Engineering Applications of Artificial Intelligence"
+publication: "Biomedical Signal Processing and Control"
 publication_short: ""
 
-abstract: "With the extensive application of object detection in intelligent security, the demand for detecting prohibited items in X-ray images has become increasingly stringent. Unlike natural images, X-ray images present unique challenges such as complex backgrounds and mutual occlusion between prohibited and normal items. Consequently, applying traditional detection methods to X-ray images remains a significant challenge. To tackle these challenges, we have developed a unique frequency-aware dual-stream transformers (FDTNet) that is specifically designed for analyzing X-ray images. The FDTNet consists of two streams: one handles the original image, while the other deals with an image that has been enhanced with frequency domain features. In order to achieve precise detection of prohibited items, we introduce a frequency-aware module (FAM) that enhances the representation of prohibited items by utilizing information from the frequency domain. This FAM can be easily integrated into other backbones or detectors as it is a plug-and-play module. Additionally, to enhance the fusion of feature maps from both streams, we utilize a global and channel attention module (GCA) that aggregates texture representations for spatial feature streams. Our evaluation of the proposed FDTNet on the OPIXray datasets and PIDray datasets demonstrates that our detection mAP achieves 88.02 and 68.2, respectively. Extensive experiments conducted on publicly available datasets provide substantial evidence that our proposed network significantly improves the detection of prohibited items compared to state-of-the-art methods."
+abstract: "Stroke segmentation has great significance for clinical diagnosis and timely treatment. Medical images of strokes often come in the form of multiple modalities. But most existing methods simply stack these modalities as input, disregarding the connections and other clinical prior knowledge associated with each modality. In this paper, we present MDANet, a multimodal difference aware network for stroke segmentation based on multimodal input. The proposed network mainly consists of a difference aware module and a graph convolution fusion block. In the difference aware module, a parameter-shared encoder is adopted to extract features from different modality groups and generate difference feature maps by subtracting one group from another to enhance the perception of potential lesion areas. We further design a similarity loss to improve this ability. The graph convolution fusion block is developed to aggregate features from different modalities with a channel embedding strategy to model the features globally and a space embedding strategy for local modeling. The MDANet is trained and evaluated on the Ischemic Stroke Lesion Segmentation (ISLES) 2018 and 2022 datasets. Our approach achieves a dice score of 58.34 and 70.44, surpassing the performance of other advanced existing methods."
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- X-ray Image Processing
+- Computer-aided diagnosis
+- Brain stroke
+- Medical image segmentation
+- Deep learning
 featured: false
 
 # links:
@@ -43,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Elsevier](https://doi.org/10.1016/j.engappai.2024.108076)'
+  caption: 'Image credit: [Elsevier](https://doi.org/10.1016/j.bspc.2024.106383)'
   focal_point: ""
   preview_only: false
 
