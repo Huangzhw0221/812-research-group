@@ -71,7 +71,7 @@ social:
 email: 'jerry_jiang@mail.ecust.edu.cn'
 
 user_groups:
-  - Doctoral Students
+  - Grad Students
 
 enrollment_year: 2020
 ---
