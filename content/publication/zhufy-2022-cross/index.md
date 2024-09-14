@@ -3,13 +3,14 @@ title: "Cross-Domain Attention and Center Loss for Sketch Re-Identification"
 authors:
 - 朱峰峣
 - 朱煜
+- 蒋晓奔
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: '2022'
-doi: "https://doi.org/10.1109/TIFS.2022.3208811"
+doi: "https://doi.org/10.1109/tifs.2022.3208811"
 
-publishDate: '2022'
+publishDate: '2022-12-01'
 
 publication_types:
 - article-journal
@@ -23,13 +24,13 @@ abstract: "Matching all RGB photos of the target person in the gallery database 
 summary: 
 
 tags:
-- Re-Identification
+- Sketch re-identification
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9899483
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -41,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure]()'
+  caption: 'Image credit: [IEEE](https://doi.org/10.1109/tifs.2022.3208811)'
   focal_point: ""
   preview_only: false
 

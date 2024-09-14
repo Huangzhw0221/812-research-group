@@ -3,13 +3,14 @@ title: "TLWSR: Weakly supervised real-world scene text image super-resolution us
 authors:
 - 施秦
 - 朱煜
+- 方传涛
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: '2023'
 doi: "https://doi.org/10.1049/ipr2.12827"
 
-publishDate: '2023'
+publishDate: '2023-07-01'
 
 publication_types:
 - article-journal
@@ -23,13 +24,13 @@ abstract: "Scene text image super-resolution (STISR) has recently received consi
 summary: 
 
 tags:
-- Super-Resolution
+- Text image super-resolution
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.12827
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -41,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure]()'
+  caption: 'Image credit: [IET](https://doi.org/10.1049/ipr2.12827)'
   focal_point: ""
   preview_only: false
 

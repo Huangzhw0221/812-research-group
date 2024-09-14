@@ -1,6 +1,6 @@
 ---
 title: Congratulations! Paper Accepted in Applied Intelligence!
-date: 2024-09-14
+date: 2024-09-13
 image:
   focal_point: 'top'
 ---
