@@ -3,13 +3,14 @@ title: "Perceiving Multiple Representations for scene text image super-resolutio
 authors:
 - 施秦
 - 朱煜
+- 刘雅童
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: '2023'
 doi: "https://doi.org/10.1016/j.engappai.2023.106551"
 
-publishDate: '2023'
+publishDate: '2023-09-01'
 
 publication_types:
 - article-journal
@@ -23,7 +24,7 @@ abstract: "Single image super-resolution (SISR) aims to recover clear high-resol
 summary: 
 
 tags:
-- Super-Resolution
+- Text image super-resolution
 featured: false
 
 # links:
@@ -41,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure]()'
+  caption: 'Image credit: [Elsevier](https://doi.org/10.1016/j.engappai.2023.106551)'
   focal_point: ""
   preview_only: false
 

@@ -1,6 +1,5 @@
 ---
-title: "COVID-19 lesion discrimination and localization network based on multi-receptive
-  field attention module on CT images"
+title: "COVID-19 lesion discrimination and localization network based on multi-receptive field attention module on CT images"
 authors:
 - 郑兵兵
 - 朱煜

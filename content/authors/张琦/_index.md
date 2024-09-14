@@ -59,7 +59,7 @@ social:
 email: 'zhangqioct@163.com'
 
 user_groups:
-  - Master Students
+  - Grad Students
 
 enrollment_year: 2021
 ---

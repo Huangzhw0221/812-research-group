@@ -56,7 +56,7 @@ social:
 email: 'sq15052502008@126.com'
 
 user_groups:
-  - Master Students
+  - Grad Students
 
 enrollment_year: 2021
 ---

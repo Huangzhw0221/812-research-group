@@ -9,7 +9,7 @@ author_notes:
 date: '2022'
 doi: "https://doi.org/10.1016/j.neucom.2022.10.060"
 
-publishDate: '2022'
+publishDate: '2022-10-30'
 
 publication_types:
 - article-journal

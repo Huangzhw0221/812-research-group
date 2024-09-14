@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        ECUST 812
+        ECUST-MMAI
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
-        The 812 Research Group is led by Professor Yu Zhu. The team is committed to the research of computer vision, including Medical Imaging, Autonomous Driving, Deepfake, Image Superresolution, NERF, Expression Recognition and etc.. 
-  
+        The ECUST-MMAI Research Group is led by Professor Yu Zhu. The team is committed to the research of artificial intellegence, advanced deep learning algorithms, computer vision, and multimedia applications. Including Medical Imaging, Autonomous Driving, Deepfake, Image Superresolution, NERF, Expression Recognition and etc..
+
   - block: collection
     content:
       title: Latest News

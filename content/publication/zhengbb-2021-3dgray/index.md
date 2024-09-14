@@ -1,9 +1,8 @@
 ---
-title: "3D gray density coding feature for benign-malignant pulmonary nodule classification
-  on chest CT"
+title: "3D gray density coding feature for benign-malignant pulmonary nodule classification on chest CT"
 authors:
 - 郑兵兵
-- 杨达伟
+- 朱煜
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -12,22 +11,13 @@ doi: "https://doi.org/10.1002/mp.15298"
  
 publishDate: '2021-9-30'
 
-publication_types: ["article-journal"]
+publication_types:
+- article-journal
 
 publication: "Medical Physics"
 publication_short: ""
 
-abstract: "Purpose
-Early detection is significant to reduce lung cancer-related death. Computer-aided detection system (CADs) can help radiologists to make an early diagnosis. In this paper, we propose a novel 3D gray density coding feature (3D GDC) and fuse it with extracted geometric features. The fusion feature and random forest are used for benign–malignant pulmonary nodule classification on Chest CT.
-
-Methods
-First, a dictionary model is created to acquire codebook. It is used to obtain feature descriptors and includes 3D block database (BD) and distance matrix clustering centers. 3D BD is balanced and randomly selecting from benign and malignant pulmonary nodules of training data. Clustering centers is got by clustering the distance matrix, which is the distance between every two blocks in 3D BD. Then, feature descriptor is obtained by coding the pulmonary nodule with codebook, and 3D GDC feature is the result of histogram statistics on feature descriptor. Second, geometric features are extracted for fusion feature. Finally, random forest is performed for benign–malignant pulmonary nodule classification with fusion feature of the 3D gray density coding feature and the geometric features.
-
-Results
-We verify the effectiveness of our method on the public LIDC-IDRI dataset and the private ZSHD dataset. For LIDC-IDRI dataset, compared with other state-of-the-art methods, we achieve more satisfactory results with 93.17 ± 1.94% for accuracy and 97.53 ± 1.62% for AUC. As for private ZSHD dataset, it contains a total of 238 lung nodules from 203 patients. The accuracy and AUC achieved by our method are 90.0% and 93.15%.
-
-Conclusions
-The results show that our method can provide doctors with more accurate results of benign–malignant pulmonary nodule classification for auxiliary diagnosis, and our method is more interpretable than 3D CNN methods, which can provide doctors with more auxiliary information."
+abstract: "Early detection is significant to reduce lung cancer-related death. Computer-aided detection system (CADs) can help radiologists to make an early diagnosis. In this paper, we propose a novel 3D gray density coding feature (3D GDC) and fuse it with extracted geometric features. The fusion feature and random forest are used for benign–malignant pulmonary nodule classification on Chest CT. First, a dictionary model is created to acquire codebook. It is used to obtain feature descriptors and includes 3D block database (BD) and distance matrix clustering centers. 3D BD is balanced and randomly selecting from benign and malignant pulmonary nodules of training data. Clustering centers is got by clustering the distance matrix, which is the distance between every two blocks in 3D BD. Then, feature descriptor is obtained by coding the pulmonary nodule with codebook, and 3D GDC feature is the result of histogram statistics on feature descriptor. Second, geometric features are extracted for fusion feature. Finally, random forest is performed for benign–malignant pulmonary nodule classification with fusion feature of the 3D gray density coding feature and the geometric features. We verify the effectiveness of our method on the public LIDC-IDRI dataset and the private ZSHD dataset. For LIDC-IDRI dataset, compared with other state-of-the-art methods, we achieve more satisfactory results with 93.17 ± 1.94% for accuracy and 97.53 ± 1.62% for AUC. As for private ZSHD dataset, it contains a total of 238 lung nodules from 203 patients. The accuracy and AUC achieved by our method are 90.0% and 93.15%. The results show that our method can provide doctors with more accurate results of benign–malignant pulmonary nodule classification for auxiliary diagnosis, and our method is more interpretable than 3D CNN methods, which can provide doctors with more auxiliary information."
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -39,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://hzw-blogimage.oss-cn-shanghai.aliyuncs.com/812-lab/Zheng%20%E7%AD%89%20-%202021%20-%203D%20gray%20density%20coding%20feature%20for%20benign-malignan.pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

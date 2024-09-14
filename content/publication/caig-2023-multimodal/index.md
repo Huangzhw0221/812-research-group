@@ -3,6 +3,7 @@ title: "A multimodal transformer to fuse images and metadata for skin disease cl
 authors:
 - 蔡淦
 - 朱煜
+- 蒋晓奔
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

@@ -65,7 +65,7 @@ social:
 email: 'huangzhiwei0221@163.com'
 
 user_groups:
-  - Master Students
+  - Grad Students
 
 enrollment_year: 2021
 ---
