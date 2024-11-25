@@ -25,7 +25,7 @@ organizations:
 bio: Leader of this laboratory, research interests include Artificial Intelligence, Computer Vision, Industrial controls, Digital Image and Video Processing, Machine learning, Deep Learning and Applications.
 interests:
   - Artificial Intelligence
-  - Computer Vision
+  - 3D Computer Vision
   - Industrial controls
   - Digital Image and Video Information Processing
   - Machine learning, Deep Learning and Applications
@@ -34,7 +34,7 @@ interests:
 
 education:
   courses:
-    - course: Prof. in Department of Electronic Information
+    - course: Professor in Department of Electronic Information
       institution: East China University of Science and Technology
       year: 2008
     - course: Visiting Scholar
@@ -68,8 +68,8 @@ user_groups:
 enrollment_year: 2008
 ---
 
-Yu Zhu, Professor, doctoral supervisor, and head of the Department of Electronic and Communication Engineering, School of Information Science and Engineering, East China University of Science and Technology. She has long been committed to artificial intelligence, image and video information processing, deep learning algorithms and applications, medical image processing and intelligent analysis, machine vision and other research directions, as well as the application of image intelligent analysis technology in cross-field research. 
+Yu Zhu is a Professor, Doctoral Supervisor, and the head of the Department of Electronics and Communication Engineering, School of Information Science and Engineering, East China University of Science and Technology, Shanghai, China. From 2004 to 2008, she was a Visiting Scholar at the University of Illinois Urbana-Champaign.
 
-She serves as the executive director of Shanghai Image and Graphics Society, the Executive director of the Circuit and Signal System Teaching and teaching Materials Research Association of universities, the standing committee of the IoT Medical Branch of China Association of Non-Public Medical Institutions, and the Technical Committee of the Shanghai IoT Medical Engineering Technology Center for Respiratory Diseases. 
+Currently, she holds multiple positions, including the Executive Director of Shanghai Image and Graphics Association, the Executive Director of the Research Association of Circuit and Signal System Teaching and Textbooks in Colleges and Universities, the Standing Committee of the IoT Medical Branch of China Association of Non-Public Medical Institutions, and a Technical Committee of the Shanghai IoT Medical Engineering Technology Center for Respiratory Diseases.
 
-She has undertaken a number of scientific research projects such as National Natural Science Foundation, Shanghai Scientific Research Fund, and commissioned research and development by enterprises, and has published more than 100 academic papers, more than 10 invention patents, and more than 8 software Copyrights.
+Her research focuses on artificial intelligence, deep learning algorithms and applications, medical image processing and intelligent analysis, 3D computer vision, as well as the application of image intelligent analysis technology in interdisciplinary research. She has undertaken numerous scientific research projects such as those funded by the National Natural Science Foundation of China and Shanghai Automotive Industry Science and Technology Development Foundation. She has published over 150 academic papers, obtained more than 30 authorized patents and over 10 software copyrights. Moreover, she has served as a committee or technical program committee member in multiple international conferences and as a reviewer for more than ten internationally renowned journals of IEEE, ACM and other associations.
