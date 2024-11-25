@@ -3,6 +3,8 @@ title: "Local attention and long-distance interaction of rPPG for deepfake detec
 authors:
 - 吴嘉辉
 - 朱煜
+- 蒋晓奔
+- 刘雅童
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
