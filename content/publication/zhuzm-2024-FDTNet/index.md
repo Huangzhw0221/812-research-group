@@ -4,9 +4,10 @@ authors:
 - 朱梓铭
 - 朱煜
 - 王浩然
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2024'
 doi: "https://doi.org/10.1016/j.engappai.2024.108076"
 
@@ -43,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Elsevier](https://doi.org/10.1016/j.engappai.2024.108076)'
+  caption: 'Image credit: [**Elsevier**](https://doi.org/10.1016/j.engappai.2024.108076)'
   focal_point: ""
   preview_only: false
 

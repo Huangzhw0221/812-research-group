@@ -5,9 +5,10 @@ authors:
 - 朱煜
 - 张可至
 - 李航宇
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2024'
 doi: "https://doi.org/10.1109/tim.2024.3480206"
 
@@ -45,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [IEEE](https://doi.org/10.1109/tim.2024.3480206)'
+  caption: 'Image credit: [**IEEE**](https://doi.org/10.1109/tim.2024.3480206)'
   focal_point: ""
   preview_only: false
 

@@ -5,8 +5,8 @@ authors:
 - 朱煜
 - 张可至
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2023'
 doi: "https://doi.org/10.3390/s23239429"
 
@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [MDPI](https://doi.org/10.3390/s23239429)'
+  caption: 'Image credit: [**MDPI**](https://doi.org/10.3390/s23239429)'
   focal_point: ""
   preview_only: false
 

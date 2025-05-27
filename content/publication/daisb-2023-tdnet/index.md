@@ -4,8 +4,8 @@ authors:
 - 戴顺博
 - 朱煜
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2022'
 doi: "https://doi.org/10.1016/j.neucom.2022.10.060"
 
@@ -41,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure]()'
+  caption: 'Image credit: [**Neurocomputing**](https://doi.org/10.1016/j.neucom.2022.10.060)'
   focal_point: ""
   preview_only: false
 

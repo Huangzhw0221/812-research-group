@@ -5,8 +5,8 @@ authors:
 - 朱煜
 - 蒋晓奔
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2022'
 doi: "https://doi.org/10.1109/tifs.2022.3208811"
 
@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [IEEE](https://doi.org/10.1109/tifs.2022.3208811)'
+  caption: 'Image credit: [**IEEE**](https://doi.org/10.1109/tifs.2022.3208811)'
   focal_point: ""
   preview_only: false
 

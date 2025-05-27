@@ -5,8 +5,8 @@ authors:
 - 朱煜
 - 李航宇
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2024'
 doi: "https://doi.org/10.1016/j.engappai.2024.108535"
 
@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Elsevier](https://doi.org/10.1016/j.engappai.2024.108535)'
+  caption: 'Image credit: [**Elsevier**](https://doi.org/10.1016/j.engappai.2024.108535)'
   focal_point: ""
   preview_only: false
 

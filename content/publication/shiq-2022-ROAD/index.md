@@ -5,8 +5,8 @@ authors:
 - 朱煜
 - 方传涛
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2022'
 doi: "https://doi.org/10.1007/s10489-022-03393-8"
 
@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Springer](https://doi.org/10.1007/s10489-022-03393-8)'
+  caption: 'Image credit: [**Springer**](https://doi.org/10.1007/s10489-022-03393-8)'
   focal_point: ""
   preview_only: false
 

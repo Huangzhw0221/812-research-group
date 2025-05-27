@@ -5,8 +5,8 @@ authors:
 - 朱煜
 - 蒋晓奔
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2023-01-01'
 doi: "https://doi.org/10.1007/s00371-022-02492-4"
 
@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure](https://hzw-blogimage.oss-cn-shanghai.aliyuncs.com/812-lab/featured.jpg)'
+  caption: 'Image credit: [**The Visual Computer**](https://doi.org/10.1007/s00371-022-02492-4)'
   focal_point: ""
   preview_only: false
 

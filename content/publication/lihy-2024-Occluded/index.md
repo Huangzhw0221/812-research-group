@@ -6,8 +6,8 @@ authors:
 - 王圣泽
 - 朱梓铭
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2024'
 doi: "https://doi.org/10.1007/s11042-024-18882-w"
 
@@ -43,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Springer](https://doi.org/10.1007/s11042-024-18882-w)'
+  caption: 'Image credit: [**Springer**](https://doi.org/10.1007/s11042-024-18882-w)'
   focal_point: ""
   preview_only: false
 

@@ -4,8 +4,8 @@ authors:
 - 蒋晓奔
 - 朱煜
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2024'
 doi: "https://doi.org/10.3389/fmed.2024.1360143"
 
@@ -43,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure]()'
+  caption: 'Image credit: [**Frontiers**](https://doi.org/10.3389/fmed.2024.1360143)'
   focal_point: ""
   preview_only: false
 

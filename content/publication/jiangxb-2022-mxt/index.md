@@ -1,12 +1,11 @@
 ---
-title: "MXT: A New Variant of Pyramid Vision Transformer for Multi-label Chest X-ray
-  Image Classification"
+title: "MXT: A New Variant of Pyramid Vision Transformer for Multi-label Chest X-ray Image Classification"
 authors:
 - 蒋晓奔
 - 朱煜
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2022-01-01'
 doi: "https://doi.org/10.1007/s12559-022-10032-4"
 
@@ -42,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Main-Structure](https://hzw-blogimage.oss-cn-shanghai.aliyuncs.com/812-lab/featured.jpg)'
+  caption: 'Image credit: [**Cognitive Computation**](https://doi.org/10.1007/s12559-022-10032-4)'
   focal_point: ""
   preview_only: false
 

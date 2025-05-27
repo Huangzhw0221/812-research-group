@@ -1,13 +1,12 @@
 ---
-title: "MC-DC: An MLP-CNN Based Dual-path Complementary Network for Medical Image
-  Segmentation"
+title: "MC-DC: An MLP-CNN Based Dual-path Complementary Network for Medical Image Segmentation"
 authors:
 - 蒋晓奔
 - 朱煜
 - 刘雅童
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2023-01-01'
 doi: "https://doi.org/10.1016/j.cmpb.2023.107846"
 
@@ -43,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Elsevier](https://hzw-blogimage.oss-cn-shanghai.aliyuncs.com/812-lab/featured.jpg)'
+  caption: 'Image credit: [**Elsevier**](https://doi.org/10.1016/j.cmpb.2023.107846)'
   focal_point: ""
   preview_only: false
 
