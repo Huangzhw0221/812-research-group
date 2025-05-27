@@ -5,8 +5,8 @@ authors:
 - 朱煜
 - 方传涛
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- "Corresponding author"
 date: '2023'
 doi: "https://doi.org/10.1049/ipr2.12827"
 
@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [IET](https://doi.org/10.1049/ipr2.12827)'
+  caption: 'Image credit: [**IET**](https://doi.org/10.1049/ipr2.12827)'
   focal_point: ""
   preview_only: false
 
