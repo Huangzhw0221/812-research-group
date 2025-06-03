@@ -1,5 +1,5 @@
 ---
-title: 2023-2024 Half Year Summary
+title: 2023-2024 First Semester Summary
 date: 2024-03-31
 image:
   focal_point: 'top'

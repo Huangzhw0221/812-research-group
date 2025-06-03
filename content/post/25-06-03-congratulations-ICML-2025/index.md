@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-In May this year, the selection results of ICML, an international top-tier event in the field of machine learning, were announced, and a high-quality paper from our research group was successfully selected.
+In May this year, the selection results of **ICML 2025**, an international top-tier event in the field of machine learning, were announced, and a high-quality paper from our research group was successfully selected.
 
 <!--more-->
 
@@ -15,7 +15,7 @@ by
 [Ziming Zhu 朱梓铭](https://ecust-mmai.netlify.app/author/ziming-zhu-朱梓铭/) 
 as the first author and Professor 
 [Yu Zhu 朱煜](https://ecust-mmai.netlify.app/author/yu-zhu-朱煜/) 
-as the corresponding author has been accepted by ICML 2025.
+as the corresponding author has been accepted.
 
 ICML, namely the International Conference on Machine Learning, is of great influence in the field of artificial intelligence and ranks among the top-notch academic conferences. 
 It has been rated as a CCF-A class international top-level conference by the China Computer Federation (with an h5-index as high as 257, comparable to the top of SCI Zone 1). 
