@@ -1,5 +1,5 @@
 ---
-title: "MA-Net: Mutex attention network for COVID-19 diagnosis on CT images"
+title: "MA-Net: Mutex Attention Network for COVID-19 Diagnosis on CT Images"
 authors:
 - 郑兵兵
 - 朱煜
@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://rdcu.be/drElW
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

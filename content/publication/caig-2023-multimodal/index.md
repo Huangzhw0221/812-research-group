@@ -1,5 +1,5 @@
 ---
-title: "A multimodal transformer to fuse images and metadata for skin disease classification"
+title: "A Multimodal Transformer to Fuse Images and Metadata for Skin Disease Classification"
 authors:
 - 蔡淦
 - 朱煜
@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**The Visual Computer**](https://doi.org/10.1007/s00371-022-02492-4)'
+  caption: 'Image credit: [**Springer**](https://doi.org/10.1007/s00371-022-02492-4)'
   focal_point: ""
   preview_only: false
 

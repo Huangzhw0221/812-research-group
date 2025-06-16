@@ -1,5 +1,5 @@
 ---
-title: "Local attention and long-distance interaction of rPPG for deepfake detection"
+title: "Local Attention and Long-distance Interaction of rPPG for Deepfake Detection"
 authors:
 - 吴嘉辉
 - 朱煜
@@ -43,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**The Visual Computer**](https://doi.org/10.1007/s00371-023-02833-x)'
+  caption: 'Image credit: [**Springer**](https://doi.org/10.1007/s00371-023-02833-x)'
   focal_point: ""
   preview_only: false
 

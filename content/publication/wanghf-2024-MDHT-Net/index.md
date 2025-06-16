@@ -1,5 +1,5 @@
 ---
-title: "MDHT-Net: Multi-scale Deformable U-Net with Cos-spatial and Channel Hybrid Transformer for pancreas segmentation"
+title: "MDHT-Net: Multi-scale Deformable U-Net with Cos-spatial and Channel Hybrid Transformer for Pancreas Segmentation"
 authors:
 - 王汇芳
 - 朱煜

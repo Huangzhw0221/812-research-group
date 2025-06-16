@@ -1,5 +1,5 @@
 ---
-title: "RAOD: refined oriented detector with augmented feature in remote sensing images object detection"
+title: "RAOD: Refined Oriented Detector with Augmented Feature in Remote Sensing Images Object Detection"
 authors:
 - 施秦
 - 朱煜

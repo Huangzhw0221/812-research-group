@@ -1,5 +1,5 @@
 ---
-title: "Contrastive learning with tokenprojection for Omicronpneumonia identification fromfew-shot chest CT images"
+title: "Contrastive learning with token projection for Omicron pneumonia identification from few-shot chest CT images"
 authors:
 - 蒋晓奔
 - 朱煜

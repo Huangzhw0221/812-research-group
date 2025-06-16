@@ -1,5 +1,5 @@
 ---
-title: "Images denoising for COVID-19 chest X-ray based on multi-scale parallel convolutional neural network"
+title: "Images Denoising for COVID-19 Chest X-Ray Based on Multi-resolution Parallel Residual CNN"
 authors:
 - 蒋晓奔
 - 朱煜
@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://rdcu.be/drD2d
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -41,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Machine Vision and Applications**](https://doi.org/10.1007/s00138-021-01224-3)'
+  caption: 'Image credit: [**Springer**](https://doi.org/10.1007/s00138-021-01224-3)'
   focal_point: ""
   preview_only: false
 

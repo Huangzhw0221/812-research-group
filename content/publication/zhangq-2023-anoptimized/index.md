@@ -1,5 +1,5 @@
 ---
-title: "An optimized optical-flow-based method for quantitative tracking of ultrasound-guided right diaphragm deformation"
+title: "An Optimized Optical-Flow-Based Method for Quantitative Tracking of Ultrasound-Guided Right Diaphragm Deformation"
 authors:
 - 张琦
 - 朱煜
@@ -24,13 +24,17 @@ abstract: "To develop a quantitative analysis method for right diaphragm deforma
 summary: 
 
 tags:
-- Medical Image Processing
+- Diaphragm
+- Optical flow
+- Ultrasound
+- Strain
+- Deformation
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://rdcu.be/dsb04
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -42,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**BMC Medical Imaging**](https://doi.org/10.1186/s12880-023-01066-7)'
+  caption: 'Image credit: [**Springer**](https://doi.org/10.1186/s12880-023-01066-7)'
   focal_point: ""
   preview_only: false
 

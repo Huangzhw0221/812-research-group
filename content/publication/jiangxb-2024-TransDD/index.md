@@ -1,5 +1,5 @@
 ---
-title: "TransDD: A transformer-based dual-path decoder for improving the performance of thoracic diseases classification using chest X-ray"
+title: "TransDD: A Transformer-based Dual-path Decoder for Improving the Performance of Thoracic Diseases Classification using Chest X-ray"
 authors:
 - 蒋晓奔
 - 朱煜
